@@ -1,0 +1,10 @@
+[
+ {"tag":"IA","ill":"ai","kicker":"Inteligencia Artificial","title":"Google lanza <em>Gemini 4 Argon</em>, su modelo más avanzado",
+  "desc":"Apunta a <b>programación, trabajo empresarial y ciberseguridad</b>: genera hasta 1 millón de tokens por respuesta y ya está disponible para desarrolladores y empresas.","src":"Reuters / Inc42"},
+ {"tag":"Tecnología","ill":"chip","kicker":"Semiconductores","title":"ASML rompe récord: la IA pide <em>más chips</em> de los que se pueden fabricar",
+  "desc":"Vendió <b>€11.700 millones</b> en el tercer trimestre y avisa que la capacidad de 2027 y 2028 no alcanzará para cubrir la demanda impulsada por la IA.","src":"ASML / TipRanks","fs":60},
+ {"tag":"Negocios","ill":"mem","kicker":"Mercados","title":"Un fabricante chino <em>sacude</em> al negocio de la memoria",
+  "desc":"CXMT anunció un diseño de memoria más denso para servidores de IA y las acciones de <b>Micron y SK Hynix cayeron 4%</b>. Más competencia podría bajar precios.","src":"CNBC / 24/7 Wall St."},
+ {"tag":"Negocios","ill":"event","kicker":"Argentina","title":"Llega <em>Tecweek 2026</em>: 12 días de tecnología en Buenos Aires",
+  "desc":"Del <b>20 al 31 de octubre</b>, con IA, startups, fintech y transformación digital. Muchas actividades son gratuitas: una oportunidad para pymes y emprendedores.","src":"tecweek.com.ar","fs":62}
+]
