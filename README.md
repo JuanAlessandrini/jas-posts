@@ -8,3 +8,9 @@ Imágenes de las publicaciones diarias de JAS Software (carrusel de noticias de 
 Metricool toma las imágenes desde `https://raw.githubusercontent.com/JuanAlessandrini/jas-posts/main/posts/AAAA-MM-DD/<archivo>`.
 
 Generar: `python3 -I plantilla/gen.py slides.json out && NODE_PATH=$(npm root -g) node plantilla/shot.js $(ls $PWD/out/*.html)`
+
+## Carrusel con foto (rutina de las 8:00)
+
+- `plantilla/gen_foto.py`: variante con foto real de Unsplash, badge de topic (Negocios / Tecnología), logo, título y descripción.
+- Imágenes en `posts-foto/AAAA-MM-DD/` (`jas_foto_AAAA-MM-DD_N.png`) con su `slides.json`.
+- Generar: `python3 -I plantilla/gen_foto.py slides.json out && NODE_PATH=$(npm root -g) node plantilla/shot.js $(ls $PWD/out/*.html)`
