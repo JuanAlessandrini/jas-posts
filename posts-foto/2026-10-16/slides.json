@@ -1,0 +1,6 @@
+[
+ {"tag":"Negocios","photo":"photo1.jpg","credit":"Maxim Hopman","kicker":"Mercado de capitales","title":"MSCI reemplaza a S&amp;P y pasa a calcular el <em>Merval</em>","desc":"Desde el <b>19 de octubre</b>, BYMA suma a MSCI para administrar sus índices: nacen el MSCI MERVAL y el MSCI BYMA Argentina General.","src":"El Economista"},
+ {"tag":"Negocios","photo":"photo2.jpg","credit":"Lalit Kumar","kicker":"Industria argentina","title":"Ante la apertura, la industria elige <em>reconvertirse</em>","desc":"Un relevamiento de Midas Consulting muestra que el <b>59%</b> de las empresas expuestas a importaciones se adapta en lugar de cerrar.","src":"Infobae"},
+ {"tag":"Tecnología","photo":"photo3.jpg","credit":"Jakub Żerdzicki","kicker":"Software de gestión","title":"Intuit compra Sequence para potenciar <em>QuickBooks</em> con IA","desc":"La plataforma automatiza <b>cotización, facturación y cobranzas</b> y se suma a la oferta de Intuit para empresas medianas.","src":"Intuit"},
+ {"tag":"Tecnología","photo":"photo4.jpg","credit":"Tyler","kicker":"Ciberseguridad","title":"Proofpoint compra Varonis para proteger los <em>datos</em>","desc":"La operación es por <b>US$6.300 millones</b> en efectivo y apunta a cuidar la información que alimenta a la IA.","src":"Varonis (SEC)"}
+]
