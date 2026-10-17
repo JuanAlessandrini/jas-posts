@@ -1,0 +1,6 @@
+[
+ {"tag":"Negocios","photo":"photo1.jpg","credit":"Matias Luge","kicker":"Industria cordobesa","title":"CBSé invierte en Mateando y apuesta a la <em>yerba</em>","desc":"La empresa de San Francisco destina <b>US$5 millones</b> a su marca tradicional, que creció 12% en ventas en el último año.","src":"iProfesional"},
+ {"tag":"Negocios","photo":"photo2.jpg","credit":"Luca","kicker":"Comercio y pymes","title":"La indumentaria, en <em>crisis</em> por las importaciones","desc":"Las ventas cayeron <b>15,9%</b> en julio y agosto, mientras la ropa importada creció 54% en volumen. El sector espera el Día de la Madre.","src":"Infobae"},
+ {"tag":"Tecnología","photo":"photo3.jpg","credit":"Justin Morgan","kicker":"Publicidad digital","title":"ChatGPT segmenta sus anuncios con <em>datos</em> de usuarios","desc":"Los anunciantes pueden subir emails y teléfonos para llegar a usuarios de un servicio con <b>1.000 millones</b> de usuarios mensuales.","src":"404 Media"},
+ {"tag":"Tecnología","photo":"photo4.jpg","credit":"Winston Chen","kicker":"Seguridad en IA","title":"Perplexity libera SPACE para aislar a los <em>agentes</em> de IA","desc":"Su sandbox ahora es código abierto. En sus pruebas, <b>8 de 10</b> plataformas similares tenían al menos una falla de red.","src":"Perplexity"}
+]
