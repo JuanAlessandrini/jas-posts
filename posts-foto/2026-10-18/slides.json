@@ -1,0 +1,6 @@
+[
+ {"tag":"Negocios","photo":"photo1.jpg","credit":"Remigiusz Dettlaff","kicker":"Agro y clima","title":"Súper Niño: lluvias que pueden <em>impulsar</em> la cosecha","desc":"Con El Niño, la soja rindió en promedio <b>6,1% sobre la tendencia</b> y el maíz 6,4%, aunque las inundaciones pueden golpear a la producción.","src":"Infobae"},
+ {"tag":"Negocios","photo":"photo2.jpg","credit":"Adam Śmigielski","kicker":"Mercados","title":"El riesgo país ya <em>roza</em> los 650 puntos","desc":"Cerró el viernes en <b>648 puntos</b>, con el petróleo cerca de US$110 y el Nasdaq en baja de 5% en la semana.","src":"Infobae"},
+ {"tag":"Tecnología","photo":"photo3.jpg","credit":"Christopher Gower","kicker":"Sitios web e IA","title":"Meta quita de sus términos el <em>entrenamiento</em> de IA","desc":"Tras las críticas, borró la mención a entrenar IA con webs vinculadas a cuentas comerciales. Los términos rigen desde el <b>30 de octubre</b>.","src":"Android Headlines"},
+ {"tag":"Tecnología","photo":"photo4.jpg","credit":"Domaintechnik","kicker":"Inteligencia Artificial","title":"DeepSeek lanza un modelo de IA más <em>barato</em>","desc":"V4.1-Flash-1017 cuesta <b>US$0,30 por millón</b> de tokens de entrada y suma APIs de búsqueda web para agentes.","src":"MarkTechPost"}
+]
