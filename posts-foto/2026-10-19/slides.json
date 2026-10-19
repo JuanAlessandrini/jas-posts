@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photo1.jpg","credit":"Mike Benna","kicker":"Energía · Vaca Muerta",
+  "title":"Argentina LNG define la mayor compra de <em>tubos</em> del país",
+  "desc":"YPF, Eni y XRG licitan caños por unos <b>US$2.000 millones</b> para el gasoducto de 527 km hacia el Golfo San Matías.",
+  "src":"Infobae"},
+ {"tag":"Negocios","photo":"photo2.jpg","credit":"Katie Goertzen","kicker":"Comercio pyme",
+  "title":"Día de la Madre: las ventas pyme <em>cayeron</em> otra vez",
+  "desc":"Según CAME, bajaron <b>1,4%</b> interanual, quinto año en baja, aunque casi 9 de cada 10 comercios ofrecieron descuentos.",
+  "src":"Infobae / CAME"},
+ {"tag":"Tecnología","photo":"photo3.jpg","credit":"Valeriano Escobar","kicker":"IA en el comercio",
+  "title":"Los precios fijados con <em>IA</em> generan desconfianza",
+  "desc":"El <b>41%</b> de las empresas encuestadas por Simon-Kucher ya usa IA para relevar el mercado y los precios de la competencia.",
+  "src":"AP"},
+ {"tag":"Tecnología","photo":"photo4.jpg","credit":"Growtika","kicker":"Inteligencia Artificial",
+  "title":"Anthropic destina el 5% de sus acciones al <em>bien público</em>",
+  "desc":"El nuevo fondo podrá apoyar, entre otras causas, a quienes vean afectado su <b>empleo</b> por la IA. Requiere aprobación de los accionistas.",
+  "src":"Reuters / Anthropic"}
+]
