@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photo1.jpg","credit":"CHUTTERSNAP","kicker":"Comercio exterior",
+  "title":"Las exportaciones marcaron un <em>récord</em> histórico en septiembre",
+  "desc":"Según el INDEC, sumaron <b>US$10.036 millones</b>, 23,5% más que hace un año, con un superávit de US$2.976 millones.",
+  "src":"Infobae / INDEC"},
+ {"tag":"Negocios","photo":"photo2.jpg","credit":"Zhu Hongzhi","kicker":"Emprendedores · Córdoba",
+  "title":"Una startup <em>cordobesa</em> fue elegida por la chilena CCU",
+  "desc":"Kiri ganó Innpacta CCU 2026 entre <b>71 proyectos</b> y hará un piloto de gamificación en Mi Carro, la app comercial de CCU.",
+  "src":"iProfesional"},
+ {"tag":"Tecnología","photo":"photo3.jpg","credit":"Tyler","kicker":"Agentes de IA",
+  "title":"Microsoft suma controles para frenar <em>agentes</em> de IA",
+  "desc":"Podrá quitarles permisos, pedir aprobación humana o apagarlos, y ya detecta <b>60 tipos</b> de agentes en equipos de trabajo.",
+  "src":"GeekWire"},
+ {"tag":"Tecnología","photo":"photo4.jpg","credit":"FlyD","kicker":"Ciberseguridad",
+  "title":"EE.UU. ordena sacar a <em>DeepSeek</em> de sus agencias federales",
+  "desc":"Seguridad Nacional exige retirar la IA china y los servicios basados en ella, por <b>riesgo de espionaje</b> y fuga de datos.",
+  "src":"elDiario.es / WSJ"}
+]
