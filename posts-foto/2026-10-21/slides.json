@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photo1.jpg","credit":"Ronak Naik","kicker":"Inversiones",
+  "title":"EE.UU. anticipa hasta <em>USD 20.000 millones</em> para Argentina",
+  "desc":"El embajador Peter Lamelas dijo que llegarán <b>antes de fin de 2027</b> para energía y minerales críticos, vía Exim Bank y la DFC.",
+  "src":"Infobae"},
+ {"tag":"Negocios","photo":"photo2.jpg","credit":"Shavr IK","kicker":"Pymes · Industria",
+  "title":"Una economía a <em>dos velocidades</em> para las empresas",
+  "desc":"Energía y minería atraen inversión, pero la producción industrial pyme cayó <b>11% interanual</b> en el segundo trimestre.",
+  "src":"El Cronista"},
+ {"tag":"Tecnología","photo":"photo3.jpg","credit":"Alex Knight","kicker":"Inteligencia Artificial",
+  "title":"Solo 7 de cada 100 <em>pequeñas empresas</em> usan IA",
+  "desc":"Según el índice ILIA 2026, la usa el <b>6,8% de las pequeñas empresas</b> y el 27,6% de las grandes. Argentina sumó 55,6 puntos.",
+  "src":"CENIA / CEPAL"},
+ {"tag":"Tecnología","photo":"photo4.jpg","credit":"Chris Ried","kicker":"Ciberseguridad",
+  "title":"Dos fallas críticas en <em>PHP</em> ponen en riesgo sitios web",
+  "desc":"El equipo de PHP las calificó con <b>9,2 sobre 10</b> y publica hoy el parche. Si tu web usa PHP, revisá la versión y actualizá.",
+  "src":"RedesZone"}
+]
