@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photo1.jpg","credit":"Lalit Kumar","kicker":"Economía · INDEC",
+  "title":"La actividad económica <em>cayó 1,7%</em> en agosto",
+  "desc":"Es la mayor baja interanual del año. Pesaron la <b>industria (-3,2%)</b> y el comercio (-3,5%), según el INDEC.",
+  "src":"Primera Edición / INDEC"},
+ {"tag":"Negocios","photo":"photo2.jpg","credit":"Timelab","kicker":"Comercio exterior",
+  "title":"Proyectan <em>exportaciones récord</em> para Argentina en 2026",
+  "desc":"La consultora ABECEB estima ventas al exterior de entre <b>USD 100.000 y 106.000 millones</b> y un crecimiento de 1,8%.",
+  "src":"Infobae"},
+ {"tag":"Tecnología","photo":"photo3.jpg","credit":"Domaintechnik","kicker":"Inteligencia Artificial",
+  "title":"Los modelos de OpenAI llegan a <em>Google Cloud</em>",
+  "desc":"GPT-6 Astra, Sol y Luna estarán en Model Garden <b>en pocas semanas</b>. Luna cuesta 100 veces menos que Astra.",
+  "src":"SiliconANGLE"},
+ {"tag":"Tecnología","photo":"photo4.jpg","credit":"rupixen","kicker":"E-commerce · IA",
+  "title":"Una IA arma tu <em>tienda online</em> en 31 segundos",
+  "desc":"La plataforma T1 lanzó UNO, un asistente que crea tiendas a partir de una descripción. Ya generó <b>más de 10.000 tiendas</b>.",
+  "src":"Infobae"}
+]
