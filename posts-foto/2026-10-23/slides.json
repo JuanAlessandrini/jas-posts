@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photo1.jpg","credit":"Lilian Do Khac","kicker":"Inversiones · RIGI",
+  "title":"Toyota fabricará <em>híbridos</em> en una nueva planta en Zárate",
+  "desc":"Economía aprobó su ingreso al RIGI por <b>US$ 1.341 millones</b>. Proyecta unos 2.600 empleos y exportar el 70% de la producción.",
+  "src":"El Economista"},
+ {"tag":"Negocios","photo":"photo2.jpg","credit":"Hans Eiskonen","kicker":"Nuevos modelos de negocio",
+  "title":"YPF y McDonald's abren su primer <em>local conjunto</em>",
+  "desc":"Está en Vicente López, dentro de la estación YPF Black Melo. Es el <b>local 237</b> de McDonald's en Argentina.",
+  "src":"El Economista"},
+ {"tag":"Tecnología","photo":"photo3.jpg","credit":"Tyler","kicker":"Ciberseguridad",
+  "title":"Hackers usaron <em>agentes de IA</em> tras vulnerar ConnectWise",
+  "desc":"Microsoft detectó ataques sobre <b>más de 2.250 entornos de Microsoft 365</b> de organizaciones, usando accesos de ConnectWise.",
+  "src":"The Register"},
+ {"tag":"Tecnología","photo":"photo4.jpg","credit":"Towfiqu barbhuiya","kicker":"IA · Seguridad",
+  "title":"1Password deja que la IA inicie sesión <em>sin ver tu clave</em>",
+  "desc":"Con 1Password for Agents, el agente pide acceso, <b>vos aprobás</b> y la app completa los datos sin mostrarle la contraseña.",
+  "src":"TechCrunch"}
+]
