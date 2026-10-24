@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"Marek Studzinski","kicker":"Retail · Marcas",
+  "title":"KIKO Milano llega a la Argentina con el <em>grupo de Decathlon</em>",
+  "desc":"La cosmética italiana facturó <b>967 millones de euros</b> en 2025 y tiene 1.389 locales en 75 mercados. Aún no hay fecha de apertura.",
+  "src":"iProfesional"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"Logan Voss","kicker":"Economía · Reservas",
+  "title":"El BCRA ya compró más de <em>US$&nbsp;1.200 millones</em> en octubre",
+  "desc":"Suma <b>US$ 1.253 millones</b> en el mes, con US$ 42 millones el viernes. Las reservas brutas quedaron en US$ 50.203 millones.",
+  "src":"iProfesional"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"Taylor Vick","kicker":"Inteligencia Artificial",
+  "title":"OpenAI dejará de entrenar sus modelos con <em>internet en vivo</em>",
+  "desc":"Usará copias en caché y versiones simuladas de la web. Lo decidió tras un incidente el <b>20 de septiembre</b> y por razones de seguridad.",
+  "src":"TechCrunch"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"Rodion Kutsaiev","kicker":"Redes sociales · Empresas",
+  "title":"Meta posterga sus nuevas reglas para <em>cuentas de empresa</em>",
+  "desc":"Los términos comerciales de Facebook, Instagram y WhatsApp arrancan el <b>20 de noviembre</b>, no el 30 de octubre, tras la presión de medios.",
+  "src":"Expansión"}
+]
