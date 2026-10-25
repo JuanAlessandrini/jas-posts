@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"Jacques Dillies","kicker":"E-commerce · Logística",
+  "title":"Mercado Libre abre un nuevo <em>centro logístico</em> en Mendoza",
+  "desc":"Invirtió <b>US$ 8 millones</b> en Luján de Cuyo: 11.000 m², hasta 96.000 paquetes por día y 5 vuelos semanales con pedidos.",
+  "src":"iProfesional"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"Hannah Shedrow","kicker":"Agro · Comercio exterior",
+  "title":"Las exportaciones del agro siguen en <em>récord</em>",
+  "desc":"En septiembre sumaron <b>US$ 5.654 millones</b>, 14% más que hace un año, y ya representan el 56% de lo que exporta el país.",
+  "src":"iProfesional"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"Chris Ried","kicker":"Ciberseguridad",
+  "title":"PHP2Shell: dos fallas críticas ponen en riesgo <em>sitios web</em>",
+  "desc":"Afectan a PHP desde la 5.4 hasta la 8.5.11, con gravedad <b>9,2 sobre 10</b>. Ya hay parches: conviene actualizar el servidor.",
+  "src":"Infobae"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"Gilles Lambert","kicker":"Apps · Mensajería",
+  "title":"WhatsApp dejará de funcionar en <em>iPhone viejos</em>",
+  "desc":"Desde el <b>30 de noviembre</b> pedirá iOS 15.5 o superior: quedan afuera el iPhone 6, el 6 Plus y los modelos anteriores.",
+  "src":"Infobae"}
+]
