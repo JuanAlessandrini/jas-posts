@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"Towfiqu barbhuiya","kicker":"Pymes · Impuestos",
+  "title":"Una pyme argentina enfrenta <em>62 obligaciones</em> fiscales al año",
+  "desc":"Según el IARAF, paga <b>34 tributos</b> (16 nacionales, 8 provinciales y 10 municipales) y suma 28 regímenes de retención e información.",
+  "src":"Infobae"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"CHUTTERSNAP","kicker":"Autos eléctricos · Inversiones",
+  "title":"Tesla acelera su <em>desembarco</em> en la Argentina",
+  "desc":"Ya tiene filial en Puerto Madero y el tope de arancel 0% para eléctricos subió a <b>US$ 35.000</b>. Todavía no hay precios oficiales.",
+  "src":"iProfesional"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"FlyD","kicker":"Ciberseguridad",
+  "title":"Roban sesiones de Microsoft 365 y <em>esquivan el MFA</em>",
+  "desc":"Huntress detectó <b>97 cuentas</b> comprometidas en 79 organizaciones: los atacantes reutilizaron tokens robados y cambiaron el doble factor.",
+  "src":"The Hacker News"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"Spacejoy","kicker":"Redes sociales · Apps",
+  "title":"Instagram llega a <em>Apple TV</em> y lleva los Reels al televisor",
+  "desc":"La nueva app permite ver Reels, <b>videos largos y vivos</b> en la tele y retomar lo que quedó a medias en el celular. Pide tvOS 26.",
+  "src":"Infobae"}
+]
