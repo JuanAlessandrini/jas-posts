@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"Pavel Neznanov","kicker":"Inversiones · Industria",
+  "title":"Profertil invertirá <em>US$ 1.700 millones</em> en Bahía Blanca",
+  "desc":"Sumará un nuevo tren de amoníaco y urea: <b>+1,5 millones de toneladas</b> por año. La obra llevaría 45 meses y produciría desde 2031.",
+  "src":"iProfesional"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"ThisisEngineering","kicker":"Industria · Costos",
+  "title":"En la industria, los <em>salarios</em> suben y las máquinas bajan",
+  "desc":"Según un informe de Nadín Argañaraz, desde 2023 las máquinas se abarataron <b>28% frente al costo laboral</b>, que ya pesa 25-30% del total.",
+  "src":"Infobae"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"Daniel","kicker":"Inteligencia Artificial · Bolsa",
+  "title":"Anthropic presentó su pedido para <em>salir a la bolsa</em>",
+  "desc":"Cotizará en el Nasdaq como \"ANT\". En el primer semestre facturó <b>US$ 16.300 millones</b>, contra US$ 1.200 millones un año antes.",
+  "src":"Fortune"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"Petr","kicker":"IA · Automatización",
+  "title":"OpenAI lanza GPT-6.1 Terra a <em>mitad de precio</em>",
+  "desc":"Apunta a automatizar tareas de oficina, como completar formularios, y cuesta <b>50% menos en la API</b> que su antecesor. Ya está en ChatGPT.",
+  "src":"BleepingComputer"}
+]
