@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"Cemrecan Yurtman","kicker":"Pymes · Coyuntura",
+  "title":"El <em>43%</em> de las pymes advierte riesgo de cierre",
+  "desc":"Encuesta Apyme-Unpaz del 3° trimestre: <b>51% vendió menos</b> y el 34% redujo personal. La energía es el costo que más pesa.",
+  "src":"APF Digital"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"Clayton Cardinalli","kicker":"Pymes · Financiamiento",
+  "title":"CAME lanza un plan federal para que las pymes usen <em>leasing</em>",
+  "desc":"Junto a Leasing Argentina habrá charlas virtuales y jornadas regionales. Las pymes ya son <b>más del 50% de la cartera</b> de leasing.",
+  "src":"BioEconomía", "fs":58},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"Bayu Syaits","kicker":"Ciberseguridad · Apple",
+  "title":"Apple corrige <em>263 fallas</em> en macOS y 163 en iOS",
+  "desc":"Salieron iOS y macOS 27.2, y <b>iOS 18.7.11</b> lleva a equipos viejos el arreglo de una falla ya explotada. Conviene actualizar ya.",
+  "src":"SecurityWeek"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"Tyler","kicker":"IA · Ciberataques",
+  "title":"La IA dispara los <em>ciberataques</em>: Australia da la alerta",
+  "desc":"Su agencia de ciberseguridad recibió <b>más de 4.400 avisos</b> en un año, 80% más que antes, y pide mantener los equipos actualizados.",
+  "src":"Euronews"}
+]
