@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"Julien","kicker":"Economía · Actividad",
+  "title":"Consultoras privadas: la Argentina entró en <em>recesión técnica</em>",
+  "desc":"Según Equilibra, la actividad cayó <b>2,6% en el tercer trimestre</b>; Ferreres estima -1,2%. El dato oficial del INDEC llega en diciembre.",
+  "src":"Infobae"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"Jonathan Velasquez","kicker":"Empresas · Medios",
+  "title":"Grupo Octubre compró la productora Mandarina y el <em>streaming</em> Bondi",
+  "desc":"Se quedó con el <b>100% de las acciones</b> de Mandarina Contenidos y su canal Bondi. Su fundador dirigirá Canal 9.",
+  "src":"Infobae"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"Domaintechnik","kicker":"Nube · Resultados",
+  "title":"Microsoft factura US$ 92.300 millones y la <em>nube</em> no frena",
+  "desc":"En su último trimestre los ingresos subieron 19% y <b>Azure creció 48%</b>, impulsada por la demanda de inteligencia artificial.",
+  "src":"Microsoft"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"MJ Duford","kicker":"IA · Publicidad",
+  "title":"Google lleva los anuncios de su modo <em>IA</em> a 10 países más",
+  "desc":"Antes de fin de año llegarían a <b>Brasil y México</b>, mientras las búsquedas de Google crecen 12%, su menor ritmo del año.",
+  "src":"Search Engine Journal"}
+]
