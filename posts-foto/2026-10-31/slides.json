@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"m.","kicker":"Mercados · Riesgo país",
+  "title":"Semana negra en la Bolsa: el Merval se <em>desplomó</em> 10%",
+  "desc":"Cinco ruedas seguidas en baja y el riesgo país subió a <b>790 puntos</b>, su nivel más alto en un año.",
+  "src":"Infobae"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"Ink Spaces","kicker":"Consumo · Autos",
+  "title":"La venta de autos 0 km volvió a <em>caer</em> en octubre",
+  "desc":"Se patentaron <b>45.965 unidades</b>: 8,4% menos que en septiembre y 12% menos que hace un año.",
+  "src":"Infobae (datos de ACARA)"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"Tyler","kicker":"Ciberseguridad · IA",
+  "title":"\"Octubre negro\": ataques con <em>IA</em> toman la nube en horas",
+  "desc":"Microsoft detectó ataques que lograron acceso privilegiado a la nube en <b>menos de tres horas</b>.",
+  "src":"Fox News"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"Chris Ried","kicker":"IA · Sitios web",
+  "title":"Tu web podrá frenar el <em>entrenamiento</em> de IA en un paso",
+  "desc":"OpenAI, Google, Microsoft y Anthropic respetarán <b>una única señal en robots.txt</b> para no usar tu contenido.",
+  "src":"Infobae"}
+]
