@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"Towfiqu barbhuiya","kicker":"Medios de pago · BCRA",
+  "title":"El uso de efectivo cae a su <em>mínimo</em> histórico",
+  "desc":"Las extracciones por adulto bajaron <b>33,4% interanual</b> y los pagos con QR crecieron 57% en el semestre.",
+  "src":"Infobae (datos del BCRA)"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"CHUTTERSNAP","kicker":"Autos · Electrificados",
+  "title":"BYD, al año de llegar, ya está en el <em>top 10</em> de ventas",
+  "desc":"La marca china vendió <b>más de 13.000 autos</b> en el país, con 18 concesionarios y una cuota de hasta 3,8%.",
+  "src":"Infobae"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"FlyD","kicker":"Ciberseguridad · Navegador",
+  "title":"Detectan 319 extensiones <em>maliciosas</em> de Chrome",
+  "desc":"Sumaban <b>13,4 millones de instalaciones</b> y desviaban las búsquedas. Revisá las extensiones de tu equipo.",
+  "src":"Infobae (vía BleepingComputer)"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"Tötös Ádám","kicker":"IA · Mercados",
+  "title":"Wall Street castiga el <em>gasto</em> en IA de las tecnológicas",
+  "desc":"El Nasdaq 100 cayó <b>6,7% en octubre</b>, su peor mes desde marzo de 2025, por dudas sobre el retorno de la IA.",
+  "src":"Bloomberg Línea"}
+]
