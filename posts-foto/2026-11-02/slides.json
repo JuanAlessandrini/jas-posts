@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"rupixen","kicker":"E-commerce · Cyber Monday",
+  "title":"Arrancó el <em>Cyber Monday</em>: casi 800 empresas y 47% son pymes",
+  "desc":"Va del <b>2 al 4 de noviembre</b>, con descuentos anticipados de 30% a 50%. La CACE espera vender lo de tres semanas normales.",
+  "src":"Infobae / iProfesional"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"Pickawood","kicker":"Industria · Consumo",
+  "title":"La <em>demanda interna</em> es el mayor freno para la industria",
+  "desc":"Para el <b>54% de los empresarios</b> es la principal traba (INDEC). La actividad acumula una caída de 2,8% a septiembre (UIA).",
+  "src":"Ámbito"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"Markus Spiske","kicker":"Ciberseguridad · Malware",
+  "title":"VOLTA, el malware que usa IA para <em>tasar</em> a sus víctimas",
+  "desc":"Roba <b>contraseñas, cookies y tarjetas</b> en Windows y clasifica a cada víctima por su valor, según Cisco Talos.",
+  "src":"The Hacker News"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"Compagnons","kicker":"Windows 11 · Productividad",
+  "title":"Windows 11 abrirá las apps más <em>rápido</em>: Edge es la primera",
+  "desc":"Microsoft promete abrir el navegador hasta <b>15% más rápido</b>, y hasta 33% en multitarea intensa, desde la actualización de octubre.",
+  "src":"Infobae"}
+]
