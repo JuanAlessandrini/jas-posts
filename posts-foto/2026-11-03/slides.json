@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"Juan Pablo Mascanfroni","kicker":"Agro · Negocios",
+  "title":"Benetton vendió más de <em>900.000 hectáreas</em> a socios de Adecoagro",
+  "desc":"Un grupo liderado por <b>Mariano Bosch</b> compró las dos empresas rurales de la familia en Buenos Aires y la Patagonia.",
+  "src":"La Nación"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"Shavr IK","kicker":"Industria · Conferencia UIA",
+  "title":"La UIA reúne hoy a Caputo y a cinco gobernadores con la <em>industria</em> en baja",
+  "desc":"La producción cayó <b>3,4% interanual</b> en septiembre. Piden menos impuestos y más lugar para proveedores pymes.",
+  "src":"Infobae"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"Luca Bravo","kicker":"Inteligencia Artificial · ChatGPT",
+  "title":"ChatGPT unifica Chat y Work en una sola <em>pantalla</em>",
+  "desc":"Lo prueba primero con pocos usuarios. Desde <b>diciembre</b>, Plus, Pro y Business compartirán cupo entre ChatGPT y Codex.",
+  "src":"Android Headlines"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"Jacob McGowin","kicker":"Ciberseguridad · Ransomware",
+  "title":"Reino Unido prevé <em>ransomware con IA</em> contra servicios esenciales",
+  "desc":"Su agencia NCSC lo ve <b>muy probable para 2028</b> y aconseja desconectar de internet lo que no necesite estar conectado.",
+  "src":"Infobae / NCSC"}
+]
