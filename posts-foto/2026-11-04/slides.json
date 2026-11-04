@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"Jakub Żerdzicki","kicker":"Pymes · Impuestos",
+  "title":"Caputo frena los <em>embargos de ARCA</em> a pymes hasta mayo de 2027",
+  "desc":"La deuda sigue vigente, pero el plan de hasta <b>18 cuotas</b> ahora suma vencimientos hasta el 31 de octubre.",
+  "src":"iProfesional"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"Sebastian Cyrman","kicker":"Empresas · Redes sociales",
+  "title":"Pinterest arma en Buenos Aires su primer <em>equipo local</em>",
+  "desc":"Su hub atenderá a Argentina, Chile y Colombia. Acá tiene <b>13 millones</b> de usuarios activos por mes, según comScore.",
+  "src":"La Nación"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"Tyler","kicker":"Ciberseguridad · IA",
+  "title":"Roban claves de IA y dejan <em>facturas de USD 1 millón</em>",
+  "desc":"Google alerta por el LLMjacking: en algunos casos, los cargos fraudulentos pasaron los <b>USD 100.000 en un día</b>.",
+  "src":"The Hacker News"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"kuu akura","kicker":"Inteligencia Artificial · Búsquedas",
+  "title":"OpenAI dice que ChatGPT ya mueve un <em>quinto</em> de las búsquedas de Google",
+  "desc":"Es una estimación de la propia empresa, que además informó <b>1.200 millones</b> de usuarios por semana.",
+  "src":"Big Technology"}
+]
