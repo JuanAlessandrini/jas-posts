@@ -1,0 +1,38 @@
+[
+ {
+  "tag": "Negocios",
+  "photo": "photos/photo1.jpg",
+  "credit": "Jakub Żerdzicki",
+  "kicker": "Fintech",
+  "title": "eToro compra la rosarina <em>LB Finanzas</em> y elige a Argentina como hub",
+  "desc": "El monto no se informó y la operación aún debe cerrarse. La fintech tiene <b>más de 140.000 clientes</b> y 1.000 empresas.",
+  "src": "iProfesional / eToro"
+ },
+ {
+  "tag": "Negocios",
+  "photo": "photos/photo2.jpg",
+  "credit": "Luca",
+  "kicker": "Comercio",
+  "title": "Portal Rosario suma <em>cinco marcas</em> en un solo día",
+  "desc": "Decathlon, Kiabi, Jack&amp;Jones, ONLY y Balmohk abren el <b>28 de noviembre</b>: más de 6.200 m² y cerca de 100 empleos.",
+  "src": "Rosario3"
+ },
+ {
+  "tag": "Tecnología",
+  "photo": "photos/photo3.jpg",
+  "credit": "ilja Freiberg",
+  "kicker": "Ciberseguridad",
+  "title": "Hackean sistemas de <em>frío</em> en súper y bancos de sangre de Europa",
+  "desc": "Francia no reportó impacto en sus reservas, pero súper de <b>ocho países</b> tiraron alimentos. Protegé tus equipos conectados.",
+  "src": "Security Affairs"
+ },
+ {
+  "tag": "Tecnología",
+  "photo": "photos/photo4.jpg",
+  "credit": "Kelly Sikkema",
+  "kicker": "Software",
+  "title": "Canva despide, reubica o cambia de rol al <em>22%</em> de su personal",
+  "desc": "Son <b>1.271 personas</b>. Su crecimiento se desaceleró por primera vez en una década y su CEO quiere “refundar” la empresa.",
+  "src": "Fast Company"
+ }
+]
