@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"CHUTTERSNAP","kicker":"E-commerce · Empresas",
+  "title":"Mercado Libre factura <em>récord</em>, pero su acción cae cerca de 12%",
+  "desc":"Ingresó <b>USD 10.750 millones</b>, pero ganó USD 448 millones, menos de lo esperado, con más gasto en logística y envíos gratis.",
+  "src":"Infobae / Ámbito"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"Lotus Design N Print","kicker":"Inversiones · Empleo",
+  "title":"Hitachi Digital invertirá <em>USD 225 millones</em> en Argentina",
+  "desc":"Prevé unos <b>2.000 puestos nuevos</b> en dos años: software, cloud, diseño y seguridad informática.",
+  "src":"La Nación / El Economista"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"Taylor Vick","kicker":"Ciberseguridad · IA",
+  "title":"OpenAI lanza <em>GPT-6 Cyber</em> y dice que halló 81 fallos en Firefox",
+  "desc":"Por ahora es solo para <b>equipos de seguridad aprobados</b>. Para tu pyme: más parches en camino, mantené todo actualizado.",
+  "src":"Fortune / TechCrunch"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"Kaitlyn Baker","kicker":"Inteligencia Artificial",
+  "title":"Perplexity lanza <em>Teammates</em>, agentes de IA que trabajan 24/7",
+  "desc":"Están en el plan <b>Perplexity Max</b>. Pueden manejar campañas o reclamar facturas vencidas, y te avisan cuando hay que decidir.",
+  "src":"Perplexity / Dataconomy"}
+]
