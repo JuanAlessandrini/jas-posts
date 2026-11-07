@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"Gizem Nikomedi","kicker":"Bancos · Comercio",
+  "title":"Bancos <em>cerrados</em> hasta el martes por la visita del Papa",
+  "desc":"Sin atención presencial el 9 y 10 de noviembre; en Provincia de Buenos Aires, <b>seis días seguidos</b>. Home banking y billeteras funcionan.",
+  "src":"La Nación"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"Ant Rozetsky","kicker":"Industria · Empleo",
+  "title":"Cierra Papelera del Sur y peligran <em>160 empleos</em> en Tornquist",
+  "desc":"La planta, fundada en 1960, no puede competir con el <b>cartón importado</b> de Brasil y llevaba unos siete meses sin producir.",
+  "src":"Infobae"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"freestocks","kicker":"Ciberseguridad · Chatbots",
+  "title":"Hackean Botpress y exponen claves de <em>chatbots</em>",
+  "desc":"El atacante leyó la configuración de bots en <b>16 espacios de clientes</b>. Si usás chatbots, cambiá las claves que tengan cargadas.",
+  "src":"Unite.AI / Botpress"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"Kevin Ache","kicker":"Nube · Inteligencia Artificial",
+  "title":"Dropbox compra Tigris y apuesta a la <em>nube</em> para IA",
+  "desc":"Paga <b>USD 350 millones</b>, su mayor compra desde 2007, para vender almacenamiento a empresas que crean apps de IA.",
+  "src":"Crunchbase News"}
+]
