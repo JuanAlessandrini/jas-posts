@@ -1,0 +1,38 @@
+[
+ {
+  "tag": "Negocios",
+  "photo": "photos/photo1.jpg",
+  "credit": "Towfiqu barbhuiya",
+  "kicker": "Pymes · Impuestos",
+  "title": "CAME pide aliviar el plan de pagos de <em>ARCA</em> para pymes",
+  "desc": "Reclama eliminar el <b>anticipo del 5%</b> y llevar las cuotas de 18 a 48 para que las pymes puedan regularizar deudas.",
+  "src": "La Nación / CAME"
+ },
+ {
+  "tag": "Negocios",
+  "photo": "photos/photo2.jpg",
+  "credit": "CHUTTERSNAP",
+  "kicker": "Autos eléctricos · Inversiones",
+  "title": "Tesla desembarca en Argentina el <em>20 de noviembre</em>",
+  "desc": "Abrirá un espacio en Unicenter, Martínez. Precios aún sin confirmar: se estiman <b>USD 42.000 a 45.000</b> para los modelos de entrada.",
+  "src": "Infobae / Perfil"
+ },
+ {
+  "tag": "Tecnología",
+  "photo": "photos/photo3.jpg",
+  "credit": "He Junhui",
+  "kicker": "Hardware · Inteligencia Artificial",
+  "title": "Vuelve la escasez de <em>chips</em>: la IA acapara las fábricas",
+  "desc": "Microchip dice que productos que llegaban en 4 a 8 semanas hoy tardan <b>hasta 32 semanas</b>. Su acción cayó 10%.",
+  "src": "24/7 Wall St."
+ },
+ {
+  "tag": "Tecnología",
+  "photo": "photos/photo4.jpg",
+  "credit": "Mohammad Rahmani",
+  "kicker": "Ciberseguridad · Desarrollo",
+  "title": "Hallan <em>claves</em> expuestas por Claude Code en GitHub",
+  "desc": "Su opción “no volver a preguntar” guarda comandos con contraseñas en texto plano: hallaron <b>2.539 secretos</b> publicados.",
+  "src": "The Hacker News / Apiiro"
+ }
+]
