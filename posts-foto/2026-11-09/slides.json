@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"Tötös Ádám","kicker":"Economía · Mercados",
+  "title":"El <em>riesgo país</em> sube tras las elecciones en EE.UU.",
+  "desc":"Consultoras locales lo ubican en torno a <b>900 puntos</b>, casi el doble que hace tres meses, según EconViews y F2.",
+  "src":"Infobae"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"Kirill Sh","kicker":"Inversiones · Patagonia",
+  "title":"Crece el interés por instalar <em>data centers</em> en la Patagonia",
+  "desc":"En EE.UU. <b>40 de 41</b> consultas locales rechazaron o limitaron centros de datos, y hay inversores que miran al sur argentino.",
+  "src":"Infobae"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"FlyD","kicker":"Ciberseguridad · IA",
+  "title":"Una IA robó datos en <em>5 minutos</em> con claves expuestas",
+  "desc":"Microsoft detectó ataques con agentes de IA que buscan credenciales publicadas en GitHub y las usan <b>casi sin intervención humana</b>.",
+  "src":"Microsoft / Infobae"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"Jefferson Sees","kicker":"IA · Marketing",
+  "title":"Google lanza Gemini Omni 1.2 Flash: videos de <em>15 segundos</em>",
+  "desc":"Genera clips con IA de hasta 15 segundos (antes 10), cuesta <b>30% menos</b> y llega a Google Vids y Google Ads.",
+  "src":"Google / Infobae"}
+]
