@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photos/photo1.jpg","credit":"Zbynek Burival","kicker":"Energía · Vaca Muerta",
+  "title":"Las petroleras sumaron <em>USD 5.165 millones</em> más en 8 meses",
+  "desc":"Entre enero y agosto facturaron <b>USD 17.475 millones</b> por petróleo, 42% más que en 2025, por mejores precios y más producción.",
+  "src":"Infobae / Economía & Energía"},
+ {"tag":"Negocios","photo":"photos/photo2.jpg","credit":"nrd","kicker":"Economía · Precios",
+  "title":"El INDEC publica el jueves la <em>inflación</em> de octubre",
+  "desc":"Las consultoras esperan un dato <b>cercano al 2%</b>. En la primera semana de noviembre, los alimentos dieron señales mixtas.",
+  "src":"Infobae"},
+ {"tag":"Tecnología","photo":"photos/photo3.jpg","credit":"Konstantin Shmatov","kicker":"Redes sociales · IA",
+  "title":"Instagram usa IA para detectar la <em>edad real</em> en todo el mundo",
+  "desc":"Los usuarios de 13 a 17 años que dicen ser adultos pasan a <b>cuentas para adolescentes</b>, con más límites de contacto y contenido.",
+  "src":"Infobae / Meta"},
+ {"tag":"Tecnología","photo":"photos/photo4.jpg","credit":"kuu akura","kicker":"Ciberseguridad · IA",
+  "title":"Google DeepMind usó IA para probar el <em>cifrado</em> de Signal",
+  "desc":"En <b>4 semanas</b> demostró garantías clave del protocolo, que también es la base del cifrado de WhatsApp. No halló fallas nuevas.",
+  "src":"Wired / Infobae"}
+]
