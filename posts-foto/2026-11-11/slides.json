@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photo1.jpg","credit":"Tötös Ádám","kicker":"Mercados · Deuda",
+  "title":"El riesgo país bajó a <em>853 puntos</em> y los bonos suben",
+  "desc":"Cayó <b>2,3%</b> el martes, tras una baja de 66 puntos el lunes. El mercado local vuelve a operar hoy, después de los feriados.",
+  "src":"Infobae"},
+ {"tag":"Negocios","photo":"photo2.jpg","credit":"Boris Dunand","kicker":"Pymes · Comercio",
+  "title":"La mayoría de los comerciantes pyme <em>no ve momento</em> para invertir",
+  "desc":"El <b>54,9%</b> dice que no es buen momento, según CAME. Las ventas minoristas pyme cayeron 1,6% interanual en octubre.",
+  "src":"BAE Negocios / CAME"},
+ {"tag":"Tecnología","photo":"photo3.jpg","credit":"Carlos Muza","kicker":"IA · Productividad",
+  "title":"Claude suma su propia <em>hoja de cálculo</em> y se une a las reuniones",
+  "desc":"Claude Sheets arma planillas con fórmulas desde una instrucción y Claude Meetings participa de <b>videollamadas en Google Meet</b>.",
+  "src":"Infobae / Anthropic"},
+ {"tag":"Tecnología","photo":"photo4.jpg","credit":"FlyD","kicker":"Ciberseguridad · IA",
+  "title":"Más de 35.000 apps hechas con Grok quedaron <em>expuestas</em>",
+  "desc":"El <b>94,7%</b> de las apps probadas se abría sin identificación; algunas tenían datos médicos, de empleados y contraseñas.",
+  "src":"Infobae / Claroc"}
+]
