@@ -1,0 +1,18 @@
+[
+ {"tag":"Negocios","photo":"photo1.jpg","credit":"CHUTTERSNAP","kicker":"Comercio exterior",
+  "title":"Dos de cada tres empresas locales <em>planean exportar</em>",
+  "desc":"El <b>66%</b> de las firmas que solo venden en el país evalúa salir al exterior en 3 años. China, Chile y Brasil, los destinos.",
+  "src":"Infobae / Santander"},
+ {"tag":"Negocios","photo":"photo2.jpg","credit":"CHUTTERSNAP","kicker":"Autos · Inversiones",
+  "title":"Tesla prepara su <em>desembarco</em> en la Argentina",
+  "desc":"El lanzamiento sería el <b>20 de noviembre</b>. Llegarían el Model 3 y el Model Y, con precios estimados de USD 38.000 a 60.000.",
+  "src":"Infobae"},
+ {"tag":"Tecnología","photo":"photo3.jpg","credit":"Growtika","kicker":"IA · Empresas",
+  "title":"Los modelos de IA duran apenas <em>6 semanas</em> en uso",
+  "desc":"Los equipos usan un modelo unas <b>4 semanas</b> antes de pasarse a uno nuevo, según un informe de Vercel.",
+  "src":"Infobae / Vercel"},
+ {"tag":"Tecnología","photo":"photo4.jpg","credit":"Kirill Sh","kicker":"Ciberseguridad",
+  "title":"Europa alerta: la IA <em>acelera</em> los ciberataques",
+  "desc":"Para ENISA, el tiempo entre hallar una falla y explotarla <b>se acerca a cero</b>. Ya atacaron heladeras de supermercados.",
+  "src":"Infobae / ENISA"}
+]
