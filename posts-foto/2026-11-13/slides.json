@@ -1,0 +1,38 @@
+[
+ {
+  "tag": "Negocios",
+  "photo": "foto1.jpg",
+  "credit": "Towfiqu barbhuiya",
+  "kicker": "Inflación",
+  "title": "La inflación de octubre fue de 2,2%, la <em>más alta</em> desde abril",
+  "desc": "Según el INDEC, acumula <b>33,1% interanual</b> y 26,3% en el año. Vivienda, agua, luz y gas subieron 4,2%.",
+  "src": "Infobae / INDEC"
+ },
+ {
+  "tag": "Negocios",
+  "photo": "foto2.jpg",
+  "credit": "Edouard TAMBA",
+  "kicker": "Infraestructura",
+  "title": "El Gobierno habilitó concesionar <em>27 tramos</em> de rutas nacionales",
+  "desc": "El Decreto 1358/2026 abarca <b>16 provincias</b>, entre ellas Córdoba, e incluye la ruta 158. Hay 12 meses para licitar.",
+  "src": "Infobae"
+ },
+ {
+  "tag": "Tecnología",
+  "photo": "foto3.jpg",
+  "credit": "Laura Ockel",
+  "kicker": "Inteligencia Artificial",
+  "title": "Jensen Huang deja <em>Nvidia</em> tras 33 años al frente",
+  "desc": "La directora financiera <b>Colette Kress</b> asume como CEO interina. La acción cae cerca de 16% desde el 3 de noviembre.",
+  "src": "Infobae / EFE"
+ },
+ {
+  "tag": "Tecnología",
+  "photo": "foto4.jpg",
+  "credit": "Andrey Matveev",
+  "kicker": "IA y negocios",
+  "title": "La IA de Meta ya <em>llama a negocios</em> por sus usuarios",
+  "desc": "Muse puede hacer reservas y agendar turnos por teléfono. Por ahora, solo para <b>suscriptores pagos</b> y negocios de EE.UU.",
+  "src": "Infobae"
+ }
+]
