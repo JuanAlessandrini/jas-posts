@@ -1,0 +1,38 @@
+[
+ {
+  "tag": "Negocios",
+  "photo": "foto1.jpg",
+  "credit": "Peter Herrmann",
+  "kicker": "Empresas",
+  "title": "Desde 2023 dejaron de operar <em>32.429 empresas</em>",
+  "desc": "Según datos de la SRT, la baja alcanza a 23 de las 24 jurisdicciones. <b>Córdoba perdió 5.082</b>, la segunda caída después de Buenos Aires.",
+  "src": "Ámbito / SRT"
+ },
+ {
+  "tag": "Negocios",
+  "photo": "foto2.jpg",
+  "credit": "Nicholas Cappello",
+  "kicker": "Mercados",
+  "title": "Las acciones argentinas <em>rebotaron</em> desde sus mínimos del año",
+  "desc": "El Merval subió <b>3,1% en pesos</b> el viernes, el riesgo país bajó a 830 puntos y las reservas llegaron a USD 49.594 millones.",
+  "src": "Infobae"
+ },
+ {
+  "tag": "Tecnología",
+  "photo": "foto3.jpg",
+  "credit": "Kevin Horvat",
+  "kicker": "Ciberseguridad",
+  "title": "Expedia confirmó un <em>hackeo</em> a través de un proveedor",
+  "desc": "Un grupo extorsivo dice tener <b>333 millones de registros</b> de cuentas. Ojo con mensajes falsos que mencionen tus reservas.",
+  "src": "Infobae"
+ },
+ {
+  "tag": "Tecnología",
+  "photo": "foto4.jpg",
+  "credit": "Taylor Vick",
+  "kicker": "IA y finanzas",
+  "title": "La IA ya es el <em>principal riesgo</em> para las finanzas de EE.UU.",
+  "desc": "El <b>87% de los consultados</b> por la Fed de Nueva York la señaló, por encima de una caída de activos y de los ciberataques.",
+  "src": "Infobae / Fed de Nueva York"
+ }
+]
