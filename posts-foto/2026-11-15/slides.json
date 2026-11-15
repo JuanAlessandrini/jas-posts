@@ -1,0 +1,6 @@
+[
+ {"tag":"Negocios","photo":"foto1.jpg","credit":"Jack Lee","kicker":"Consumo","title":"Las <em>marcas pyme</em> ganan lugar en las góndolas","desc":"Con precios hasta <b>68% más bajos</b> que las primeras marcas, crecen entre los consumidores que buscan ahorrar.","src":"Hoy Día Córdoba"},
+ {"tag":"Negocios","photo":"foto2.jpg","credit":"E. Norman","kicker":"Inflación","title":"Argentina, <em>segunda</em> en inflación de Latinoamérica","desc":"El <b>2,2% de octubre</b> solo fue superado por Venezuela (6,2%). Alquileres, tarifas y combustibles empujaron la suba.","src":"Ámbito"},
+ {"tag":"Tecnología","photo":"foto3.jpg","credit":"Towfiqu barbhuiya","kicker":"Ciberseguridad","title":"Hackers novatos usan IA para <em>secuestrar datos</em>","desc":"Los ataques de ransomware reclamados subieron <b>hasta 40%</b>: la IA les escribe correos de engaño y negocia rescates.","src":"Infobae / Wired"},
+ {"tag":"Tecnología","photo":"foto4.jpg","credit":"Alex Knight","kicker":"Inteligencia Artificial","title":"La IA ya ayuda a <em>crear</em> la próxima IA","desc":"Helen Toner, exdirectora de OpenAI, advirtió que <b>OpenAI y Anthropic</b> usan IA en cada vez más etapas de desarrollo.","src":"Infobae / The Verge"}
+]
