@@ -1,0 +1,6 @@
+[
+ {"tag":"Negocios","photo":"foto1.jpg","credit":"Richard Burlton","kicker":"Empresas","title":"Las empresas empleadoras caen al <em>nivel más bajo</em> desde 2007","desc":"Según Fundar, en agosto quedaban <b>479.928 empresas</b> con empleados: 32.429 menos que en noviembre de 2023.","src":"Perfil / Fundar"},
+ {"tag":"Negocios","photo":"foto2.jpg","credit":"2H Media","kicker":"Pymes","title":"Diputados avanza con un <em>alivio para pymes</em> embargadas","desc":"Un dictamen propone suspender por <b>1 año</b> los juicios y embargos de ARCA y abrir un régimen de regularización de deudas.","src":"Examedia"},
+ {"tag":"Tecnología","photo":"foto3.jpg","credit":"Towfiqu barbhuiya","kicker":"Ciberseguridad","title":"El FBI alerta por una IA que <em>hackea empresas</em> en horas","desc":"Con Artex, atacantes lograron acceso de administrador en <b>menos de 3 horas</b> usando contraseñas filtradas y cuentas sin 2FA.","src":"Infobae"},
+ {"tag":"Tecnología","photo":"foto4.jpg","credit":"Ilya Pavlov","kicker":"Software","title":"Una IA detectó un <em>fallo crítico en Java</em>","desc":"La startup Calif lo encontró con un modelo de OpenAI. Oracle ya publicó el <b>parche de seguridad</b>: conviene actualizar.","src":"Infobae / EFE"}
+]
