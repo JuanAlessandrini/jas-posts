@@ -1,0 +1,6 @@
+[
+ {"tag":"Negocios","photo":"foto1.jpg","credit":"Timelab","kicker":"Comercio exterior","title":"Las exportaciones marcaron un <em>nuevo récord</em> en octubre","desc":"Sumaron <b>US$10.061 millones</b> (+26,4% interanual) y el superávit comercial llegó a US$3.394 millones, el mes 35 seguido en positivo.","src":"iProfesional / INDEC"},
+ {"tag":"Negocios","photo":"foto2.jpg","credit":"Venti Views","kicker":"Logística","title":"El Senado aprobó abrir el <em>cabotaje</em> a buques extranjeros","desc":"El proyecto busca <b>bajar los costos logísticos</b> del transporte de mercaderías entre puertos argentinos. Ahora pasa a Diputados.","src":"Noticias Argentinas"},
+ {"tag":"Tecnología","photo":"foto3.jpg","credit":"Alex Knight","kicker":"Inteligencia Artificial","title":"<em>Gemini</em> ya puede manejar una Mac por el usuario","desc":"Abre programas, hace clic y completa formularios. Por ahora solo en <b>inglés y en EE.UU.</b>, con planes pagos de Google.","src":"Infobae"},
+ {"tag":"Tecnología","photo":"foto4.jpg","credit":"Ben Maffin","kicker":"Inteligencia Artificial","title":"El MIT crea un detector de <em>textos hechos con IA</em>","desc":"Identifica el <b>93%</b> de los textos de IA pensados para pasar como humanos, contra el 27% de los sistemas convencionales.","src":"Infobae"}
+]
