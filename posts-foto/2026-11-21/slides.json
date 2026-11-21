@@ -1,0 +1,6 @@
+[
+ {"tag":"Negocios","photo":"foto1.jpg","credit":"Fredrick F.","kicker":"Inversiones","title":"Argentina LNG entra al RIGI: <em>la mayor inversión</em> de la historia","desc":"El proyecto de YPF, Eni y XRG prevé <b>US$50.750 millones</b> hasta 2050 y exportar 12 millones de toneladas de GNL por año.","src":"Infobae","fs":58},
+ {"tag":"Negocios","photo":"foto2.jpg","credit":"Nicholas Cappello","kicker":"Mercados","title":"El <em>riesgo país</em> superó los 1.000 puntos","desc":"Llegó a <b>1.071 puntos</b>, su nivel más alto en 13 meses, y el dólar minorista cerró en un récord nominal de $1.600 en el Nación.","src":"Perfil"},
+ {"tag":"Tecnología","photo":"foto3.jpg","credit":"freestocks","kicker":"Ciberseguridad","title":"WhatsApp corrigió una falla usada por <em>estafadores</em>","desc":"Afectaba a WhatsApp y WhatsApp Business en Android: conviene actualizar a la versión <b>2.26.17.4</b> o superior.","src":"Infobae"},
+ {"tag":"Tecnología","photo":"foto4.jpg","credit":"Tech Daily","kicker":"Privacidad","title":"Signal bloquea capturas para frenar a los <em>agentes de IA</em>","desc":"Viene <b>activado por defecto</b> en iOS 27 y en Android, para que asistentes como Siri o Gemini no lean los chats.","src":"Engadget","fs":58}
+]
