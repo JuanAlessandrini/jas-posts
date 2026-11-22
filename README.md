@@ -17,7 +17,7 @@ Generar: `python3 -I plantilla/gen.py slides.json out && NODE_PATH=$(npm root -g
 
 ## Historias de tendencias (9:16)
 
-- `plantilla/gen_historia.py`: genera historias 1080x1920 desde un `historias.json` (layouts: titular, tweet, meme, encuesta, dato, split; cada placa lleva una foto realista de Unsplash integrada con `photo`, `credit` y `photo_style`), respetando las zonas seguras de Instagram (250 px arriba, 340 px abajo).
+- `plantilla/gen_historia.py`: genera historias 1080x1920 desde un `historias.json` (layouts: titular, tweet, meme, encuesta, dato, split; cada placa lleva una foto realista de Unsplash integrada con `photo`, `credit` y `photo_style`; el layout encuesta acepta `sticker_slot: true` para dejar lugar al sticker real de encuesta/pregunta de Instagram), respetando las zonas seguras de Instagram (250 px arriba, 340 px abajo).
 - `plantilla/shot_story.js`: como `shot.js` pero a 1080x1920 (o `SHOT_W`/`SHOT_H`).
 - Imágenes en `historias-tendencias/AAAA-MM-DD/` (`historia_AAAA-MM-DD_N.png`) con su `historias.json`.
 - Generar: `python3 -I plantilla/gen_historia.py historias.json out && NODE_PATH=$(npm root -g) node plantilla/shot_story.js $(ls $PWD/out/*.html)`

@@ -20,7 +20,8 @@ Campos por layout:
   titular: bigword (palabra gigante de fondo)
   tweet:   time (ej. "11:42 · 22 nov. 2026")
   meme:    rows [{label, value, hot}] (comparación), stamp (sticker girado)
-  encuesta: options [{text, pct}]
+  encuesta: options [{text, pct}] (encuesta simulada), o bien sticker_slot: true (+ sticker_hint, slot_h)
+           para dejar un espacio libre (~380 px) donde se pega a mano el sticker REAL de encuesta/pregunta de Instagram
   dato:    number, label
   split:   art ("eq" ecualizador | "rings" | "bars")
 
@@ -161,10 +162,16 @@ def L_encuesta(s, rnd):
           <div style="position:absolute;left:0;top:0;bottom:0;width:{o['pct']}%;background:linear-gradient(90deg,#7CE395,#55C596)"></div>
           <div style="position:relative;display:flex;justify-content:space-between;align-items:center;height:100%;padding:0 32px;font-size:36px;font-weight:800;color:#0B171D">
           <span>{o['text']}</span><span>{o['pct']}%</span></div></div>"""
+    if s.get("sticker_slot"):
+        # espacio vacío para el sticker interactivo REAL de Instagram (encuesta/pregunta/quiz) que se agrega a mano
+        hint = s.get("sticker_hint", "Votá acá 👇")
+        box = f"""<div style="margin:44px 0 40px"><div style="font-weight:800;font-size:34px;color:#7CE395;text-shadow:0 2px 14px rgba(0,0,0,.6)">{hint}</div>
+      <div style="height:{s.get('slot_h',380)}px;margin-top:18px"></div></div>"""
+    else:
+        box = f"""<div style="background:#fff;border-radius:36px;padding:36px 36px 40px;margin:52px 0 48px;box-shadow:0 30px 80px rgba(0,0,0,.45);transform:rotate(1.5deg)">
+      <div style="text-align:center;font-weight:900;font-size:30px;letter-spacing:2px;color:#349D9E">ENCUESTA</div>{opts}</div>"""
     main = f"""<div class="kicker">{s.get('kicker','')}</div>
-    <h1 style="font-size:{s.get('fs',88)}px">{s['hook']}</h1>
-    <div style="background:#fff;border-radius:36px;padding:36px 36px 40px;margin:52px 0 48px;box-shadow:0 30px 80px rgba(0,0,0,.45);transform:rotate(1.5deg)">
-      <div style="text-align:center;font-weight:900;font-size:30px;letter-spacing:2px;color:#349D9E">ENCUESTA</div>{opts}</div>
+    <h1 style="font-size:{s.get('fs',88)}px">{s['hook']}</h1>{box}
     <div class="punch">{s['punch']}</div>"""
     return deco, main
 
