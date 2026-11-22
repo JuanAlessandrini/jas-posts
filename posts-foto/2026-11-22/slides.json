@@ -1,0 +1,6 @@
+[
+ {"tag":"Negocios","photo":"foto1.jpg","credit":"CHUTTERSNAP","kicker":"Autos","title":"<em>Tesla</em> ya vende sus autos en la Argentina","desc":"El Model 3 arranca en <b>u$s41.590</b> y el Model Y en u$s44.590. Las primeras entregas están previstas para marzo y abril de 2027.","src":"Ámbito"},
+ {"tag":"Negocios","photo":"foto2.jpg","credit":"2H Media","kicker":"Impuestos","title":"Nación propone eliminar el <em>Impuesto de Sellos</em>","desc":"Ofrece compensar a las provincias que lo eliminen con <b>el 50% de la recaudación</b> que resignen. La propuesta ya se presentó ante la Comisión Federal de Impuestos.","src":"El Cronista","fs":58},
+ {"tag":"Tecnología","photo":"foto3.jpg","credit":"Tyler","kicker":"Ciberseguridad","title":"Microsoft admitió una falla que expuso <em>datos de empresas</em>","desc":"Atacantes vieron correos de administradores e IDs de clientes por un error en Entra Connect Health. <b>No se filtraron contraseñas</b>.","src":"Infobae","fs":58},
+ {"tag":"Tecnología","photo":"foto4.jpg","credit":"Thomas Lefebvre","kicker":"Inteligencia artificial","title":"Meta lleva su agente de IA <em>Muse</em> a Chrome","desc":"La extensión completa formularios, compara precios y hace reservas con tu cuenta. Ya la usan <b>200.000 personas</b>.","src":"Infobae"}
+]
