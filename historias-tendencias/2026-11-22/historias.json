@@ -1,24 +1,83 @@
 [
- {"layout":"titular","trend":"Somos campeones","kicker":"Anoche hubo vuelta olímpica 🏆","bigword":"CAMPEONES",
-  "hook":"Los <em>campeones</em> no se improvisan: se arman.",
-  "punch":"Con <b>jashr</b> encontrás el talento que tu equipo necesita para levantar su propia copa.",
-  "product":"jashr","cta":"Escribinos 👉 353-4764036"},
- {"layout":"tweet","trend":"#LasVegasGP","kicker":"Mientras todos miran la carrera…","time":"10:15 · 22 nov. 2026",
-  "hook":"Un auto de F1 manda datos en vivo a boxes en cada vuelta. ¿Y tu campo? 🏎️",
-  "punch":"Con <b>agro</b> ves lotes, labores e insumos en tiempo real. Sin esperar a volver al galpón.",
-  "product":"agro","cta":"Escribinos 👉 353-4764036"},
- {"layout":"meme","trend":"Fórmula 1","kicker":"Comparación injusta","hook":"Hay <em>pit stops</em> y pit stops…",
-  "rows":[{"label":"Cambio de 4 gomas en F1","value":"~2 s"},{"label":"Tu pedido anotado en un papelito","value":"2 días","hot":true}],
-  "stamp":"Con distri: minutos ⚡",
-  "punch":"<b>distri</b> toma pedidos desde el celu del vendedor y los manda directo al depósito.",
-  "cta":"Escribinos 👉 353-4764036"},
- {"layout":"encuesta","trend":"#BuenDomingo","kicker":"Domingo, 13:30, asado en marcha 🔥",
-  "hook":"Te escribe un cliente por WhatsApp. ¿Qué hacés?",
-  "options":[{"text":"Contesto con la pinza en la mano","pct":38},{"text":"Lo clavo en visto hasta el lunes","pct":62}],
-  "punch":"Opción 3: <b>apiwapp</b> responde solo, con IA, los 7 días. Vos cuidá el asado.",
-  "cta":"Votá respondiendo 👇"},
- {"layout":"dato","trend":"Black Friday","number":"5","label":"días para el<br>Black Friday",
-  "hook":"¿Tu tienda online aguanta la avalancha?",
-  "punch":"E-commerce a medida, veloz y conectado a tu stock para vender sin que nada se caiga.",
-  "product":"e-commerce","cta":"Escribinos 👉 353-4764036"}
+ {
+  "layout": "titular",
+  "trend": "Somos campeones",
+  "kicker": "Anoche hubo vuelta olímpica 🏆",
+  "bigword": "CAMPEONES",
+  "hook": "Los <em>campeones</em> no se improvisan: se arman.",
+  "punch": "Con <b>jashr</b> encontrás el talento que tu equipo necesita para levantar su propia copa.",
+  "product": "jashr",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-22/fotos/foto1.jpg",
+  "credit": "Abhinav Bhardwaj",
+  "fs": 100
+ },
+ {
+  "layout": "tweet",
+  "trend": "#LasVegasGP",
+  "kicker": "Mientras todos miran la carrera…",
+  "time": "10:15 · 22 nov. 2026",
+  "hook": "Un auto de F1 manda datos en vivo a boxes en cada vuelta. ¿Y tu campo? 🏎️",
+  "punch": "Con <b>agro</b> ves lotes, labores e insumos en tiempo real. Sin esperar a volver al galpón.",
+  "product": "agro",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-22/fotos/foto2.jpg",
+  "credit": "Alex Simpson"
+ },
+ {
+  "layout": "meme",
+  "trend": "Fórmula 1",
+  "kicker": "Comparación injusta",
+  "hook": "Hay <em>pit stops</em> y pit stops…",
+  "rows": [
+   {
+    "label": "Cambio de 4 gomas en F1",
+    "value": "~2 s"
+   },
+   {
+    "label": "Tu pedido anotado en un papelito",
+    "value": "2 días",
+    "hot": true
+   }
+  ],
+  "stamp": "Con distri: minutos ⚡",
+  "punch": "<b>distri</b> toma pedidos desde el celu del vendedor y los manda directo al depósito.",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-22/fotos/foto3.jpg",
+  "credit": "Claudio Schwarz"
+ },
+ {
+  "layout": "encuesta",
+  "trend": "#BuenDomingo",
+  "kicker": "Domingo, 13:30, asado en marcha 🔥",
+  "hook": "Te escribe un cliente por WhatsApp. ¿Qué hacés?",
+  "options": [
+   {
+    "text": "Contesto con la pinza en la mano",
+    "pct": 38
+   },
+   {
+    "text": "Lo clavo en visto hasta el lunes",
+    "pct": 62
+   }
+  ],
+  "punch": "Opción 3: <b>apiwapp</b> responde solo, con IA, los 7 días. Vos cuidá el asado.",
+  "cta": "Votá respondiendo 👇",
+  "photo": "historias-tendencias/2026-11-22/fotos/foto4.jpg",
+  "credit": "Greta Schölderle Möller"
+ },
+ {
+  "layout": "dato",
+  "trend": "Black Friday",
+  "number": "5",
+  "label": "días para el<br>Black Friday",
+  "hook": "¿Tu tienda online aguanta la avalancha?",
+  "punch": "E-commerce a medida, veloz y conectado a tu stock para vender sin que nada se caiga.",
+  "product": "e-commerce",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-22/fotos/foto5.jpg",
+  "credit": "Henrik L.",
+  "nfs": 300,
+  "fs": 78
+ }
 ]

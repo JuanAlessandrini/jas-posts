@@ -12,7 +12,10 @@ historias.json: lista de objetos. Campos comunes:
   cta      mini CTA (ej. "Escribinos 👉 353-4764036")
   product  (opcional) producto/servicio JAS que se destaca (ej. "distri")
   fs       (opcional) tamaño del hook en px
-  photo / credit (opcional) foto de fondo local + nombre del fotógrafo de Unsplash
+  photo / credit (recomendado) foto realista local (Unsplash, 1080x1920) + nombre del fotógrafo
+  photo_style (opcional) cómo se integra la foto: "full" (fondo completo con velo),
+           "hero" (foto protagonista, texto abajo), "top" (foto arriba que se funde),
+           "split" (foto arriba con corte diagonal). Default según layout.
 Campos por layout:
   titular: bigword (palabra gigante de fondo)
   tweet:   time (ej. "11:42 · 22 nov. 2026")
@@ -37,7 +40,18 @@ body{width:1080px;height:1920px;overflow:hidden;position:relative;font-family:In
  radial-gradient(900px 700px at -15% 105%, rgba(52,157,158,.30), transparent 60%),linear-gradient(170deg,#0B171D,#162932 60%,#0E1C23)}
 .deco{position:absolute;inset:0;overflow:hidden;z-index:0}
 .photo{position:absolute;inset:0;background-size:cover;background-position:center;z-index:0}
-.photo:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,23,29,.55),rgba(11,23,29,.82) 45%,rgba(11,23,29,.95))}
+.photo:after{content:"";position:absolute;inset:0}
+.ph-full .photo:after{background:linear-gradient(180deg,rgba(11,23,29,.55),rgba(11,23,29,.40) 30%,rgba(11,23,29,.62) 60%,rgba(11,23,29,.90))}
+.ph-hero .photo:after{background:linear-gradient(180deg,rgba(11,23,29,.55),rgba(11,23,29,.05) 17%,rgba(11,23,29,.5) 30%,rgba(11,23,29,.9) 45%,rgba(11,23,29,.97))}
+.ph-full.tweet .photo:after{background:linear-gradient(180deg,rgba(11,23,29,.5),rgba(11,23,29,.15) 35%,rgba(11,23,29,.2) 60%,rgba(11,23,29,.7))}
+.ph-top .photo{bottom:auto;height:1080px;-webkit-mask-image:linear-gradient(180deg,#000 60%,transparent)}
+.ph-top .photo:after{background:linear-gradient(180deg,rgba(11,23,29,.5),rgba(11,23,29,0) 28%,rgba(11,23,29,.3))}
+.ph-split .photo{bottom:auto;height:760px;z-index:1;clip-path:polygon(0 0,100% 0,100% 100%,0 80%)}
+.ph-split .photo:after{background:linear-gradient(180deg,rgba(11,23,29,.55),rgba(11,23,29,.0) 35%,rgba(11,23,29,.15))}
+.ph-hero main,.ph-top main,.ph-split main{justify-content:flex-end;padding-bottom:40px}
+.has-photo h1,.has-photo .kicker,.has-photo .punch{text-shadow:0 3px 22px rgba(0,0,0,.6)}
+.has-photo .kicker{color:#8FF0A8}
+.has-photo header img{background:rgba(11,23,29,.6);padding:12px 18px;border-radius:16px;height:74px}
 .safe{position:absolute;left:72px;right:72px;top:__ST__px;bottom:__SB__px;display:flex;flex-direction:column;z-index:2}
 header{display:flex;align-items:center;justify-content:space-between;padding-top:22px}
 header img{height:50px}
@@ -47,7 +61,8 @@ header img{height:50px}
 main{flex:1;display:flex;flex-direction:column;justify-content:center;min-height:0}
 footer{display:flex;align-items:center;justify-content:space-between;gap:20px;padding-bottom:18px}
 .cta{background:#7CE395;color:#0B171D;font-weight:800;font-size:36px;padding:22px 34px;border-radius:60px;box-shadow:0 12px 40px rgba(124,227,149,.28);white-space:nowrap}
-.handle{font-weight:700;font-size:30px;color:#cfe3dd;white-space:nowrap}
+.handle{font-weight:700;font-size:30px;color:#cfe3dd;white-space:nowrap;text-align:right;text-shadow:0 2px 10px rgba(0,0,0,.5)}
+.handle small{display:block;font-weight:500;font-size:17px;color:rgba(255,255,255,.7);margin-top:6px}
 .kicker{color:#55C596;font-weight:800;font-size:30px;letter-spacing:3px;text-transform:uppercase;margin-bottom:22px}
 h1{font-weight:900;line-height:1.0;letter-spacing:-3px}
 h1 em,.punch b{font-style:normal;color:#7CE395}
@@ -61,7 +76,6 @@ body.dato header img{background:#0B171D;padding:14px 20px;border-radius:18px;hei
 body.dato .chip{background:#0B171D;border-color:#0B171D}
 body.dato .cta{background:#0B171D;color:#7CE395;box-shadow:0 12px 40px rgba(0,0,0,.3)}
 body.dato .prod{background:rgba(11,23,29,.55);border-color:rgba(11,23,29,.2)}
-.credit{position:absolute;right:72px;top:__CB__px;font-size:18px;color:rgba(255,255,255,.65);z-index:2}
 """
 
 def esc(s):
@@ -199,21 +213,29 @@ def data_uri(path):
     return f"data:{mime};base64," + base64.b64encode(p.read_bytes()).decode()
 
 
+PHOTO_STYLE = dict(titular="hero", tweet="full", meme="top", encuesta="full", dato="split", split="top")
+
+
 def page(s, i):
     rnd = random.Random(1000 + i)
     deco, main = LAYOUTS[s["layout"]](s, rnd)
     photo = credit = ""
+    cls = s["layout"]
     if s.get("photo"):
-        photo = f'<div class="photo" style="background-image:url(\'{data_uri(s["photo"])}\')"></div>'
-        credit = f'<div class="credit">Foto: {html.escape(s.get("credit",""))} / Unsplash</div>'
-    css = CSS.replace("__ST__", str(SAFE_TOP)).replace("__SB__", str(SAFE_BOTTOM)).replace("__CB__", str(SAFE_TOP + 100))
-    return f"""<!doctype html><html><head><meta charset="utf-8"><style>{css}</style></head><body class="{s['layout']}">
+        st = s.get("photo_style") or PHOTO_STYLE[s["layout"]]
+        cls += f" has-photo ph-{st}"
+        if st in ("full", "hero") and s["layout"] != "dato":
+            deco = ""  # la foto es el fondo: sin decoración encima
+        photo = f'<div class="photo" style="background-image:url(\'{data_uri(s["photo"])}\');background-position:{s.get("photo_pos","center")}"></div>'
+        credit = f'<small>Foto: {html.escape(s.get("credit",""))} / Unsplash</small>'
+    css = CSS.replace("__ST__", str(SAFE_TOP)).replace("__SB__", str(SAFE_BOTTOM))
+    return f"""<!doctype html><html><head><meta charset="utf-8"><style>{css}</style></head><body class="{cls}">
 {photo}{deco}
 <div class="safe">
  <header><img src="{LOGO}"><div class="chip"><i>Tendencia ·</i>{s.get('trend','')}</div></header>
  <main>{main}</main>
- <footer><div class="cta">{s.get('cta','Escribinos 👉 353-4764036')}</div><div class="handle">@jas.software</div></footer>
-</div>{credit}
+ <footer><div class="cta">{s.get('cta','Escribinos 👉 353-4764036')}</div><div class="handle">@jas.software{credit}</div></footer>
+</div>
 </body></html>"""
 
 
