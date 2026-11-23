@@ -1,0 +1,42 @@
+[
+ {
+  "tag": "Negocios",
+  "photo": "foto1.jpg",
+  "credit": "Mohammad Rahmani",
+  "kicker": "Industria del software",
+  "title": "El <em>software argentino</em> estanca su empleo en plena era de la IA",
+  "desc": "El sector tiene <b>162.708 empleos registrados</b> y cerró el semestre con 549 puestos menos, aunque las exportaciones crecieron 17%.",
+  "src": "Infobae",
+  "fs": 58
+ },
+ {
+  "tag": "Negocios",
+  "photo": "foto2.jpg",
+  "credit": "kate.sade",
+  "kicker": "Empresas",
+  "title": "Córdoba, segunda provincia que más <em>empresas</em> perdió",
+  "desc": "Desde noviembre de 2023 hay <b>32.290 empresas menos</b> en el país; Córdoba perdió 4.851, solo detrás de Buenos Aires.",
+  "src": "Infobae",
+  "fs": 58
+ },
+ {
+  "tag": "Tecnología",
+  "photo": "foto3.jpg",
+  "credit": "Craig Lovelidge",
+  "kicker": "Ciberseguridad",
+  "title": "Atacan una falla crítica de <em>Cisco</em> que ya tenía parche",
+  "desc": "Afecta a equipos Cisco Expressway en clúster y tiene una gravedad de <b>9,8 sobre 10</b>. El parche está disponible desde el 21 de octubre.",
+  "src": "Infobae",
+  "fs": 58
+ },
+ {
+  "tag": "Tecnología",
+  "photo": "foto4.jpg",
+  "credit": "Domaintechnik",
+  "kicker": "Nube",
+  "title": "Entraron a la nube de <em>Rackspace</em> con credenciales filtradas",
+  "desc": "Los atacantes pudieron <b>leer claves y contraseñas</b> guardadas en clústeres de clientes. La empresa pide rotar tokens y credenciales.",
+  "src": "Infobae",
+  "fs": 58
+ }
+]
