@@ -47,6 +47,7 @@ body{width:1080px;height:1920px;overflow:hidden;position:relative;font-family:In
 .ph-full.tweet .photo:after{background:linear-gradient(180deg,rgba(11,23,29,.5),rgba(11,23,29,.15) 35%,rgba(11,23,29,.2) 60%,rgba(11,23,29,.7))}
 .ph-top .photo{bottom:auto;height:1080px;-webkit-mask-image:linear-gradient(180deg,#000 60%,transparent)}
 .ph-top .photo:after{background:linear-gradient(180deg,rgba(11,23,29,.5),rgba(11,23,29,0) 28%,rgba(11,23,29,.3))}
+.ph-top.meme .photo:after{background:linear-gradient(180deg,rgba(11,23,29,.45),rgba(11,23,29,.1) 16%,rgba(11,23,29,.6) 36%,rgba(11,23,29,.88) 58%)}
 .ph-split .photo{bottom:auto;height:760px;z-index:1;clip-path:polygon(0 0,100% 0,100% 100%,0 80%)}
 .ph-split .photo:after{background:linear-gradient(180deg,rgba(11,23,29,.55),rgba(11,23,29,.0) 35%,rgba(11,23,29,.15))}
 .ph-hero main,.ph-top main,.ph-split main{justify-content:flex-end;padding-bottom:40px}
@@ -157,7 +158,7 @@ def L_encuesta(s, rnd):
     dots = "".join(f'<circle cx="{x}" cy="{y}" r="3" fill="#7CE395" opacity=".18"/>' for x in range(20, 1080, 44) for y in range(20, 1920, 44))
     deco = f'<div class="deco"><svg width="1080" height="1920" style="position:absolute;inset:0">{dots}</svg></div>'
     opts = ""
-    for o in s["options"]:
+    for o in s.get("options", []):  # con sticker_slot no hacen falta
         opts += f"""<div style="position:relative;border-radius:24px;background:#EEF4F2;overflow:hidden;margin-top:20px;height:104px">
           <div style="position:absolute;left:0;top:0;bottom:0;width:{o['pct']}%;background:linear-gradient(90deg,#7CE395,#55C596)"></div>
           <div style="position:relative;display:flex;justify-content:space-between;align-items:center;height:100%;padding:0 32px;font-size:36px;font-weight:800;color:#0B171D">
@@ -231,7 +232,7 @@ def page(s, i):
     if s.get("photo"):
         st = s.get("photo_style") or PHOTO_STYLE[s["layout"]]
         cls += f" has-photo ph-{st}"
-        if st in ("full", "hero") and s["layout"] != "dato":
+        if (st in ("full", "hero") and s["layout"] != "dato") or s["layout"] == "split":
             deco = ""  # la foto es el fondo: sin decoración encima
         photo = f'<div class="photo" style="background-image:url(\'{data_uri(s["photo"])}\');background-position:{s.get("photo_pos","center")}"></div>'
         credit = f'<small>Foto: {html.escape(s.get("credit",""))} / Unsplash</small>'

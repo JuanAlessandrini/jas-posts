@@ -1,0 +1,77 @@
+[
+ {
+  "layout": "titular",
+  "trend": "Gracias",
+  "kicker": "Medio país amaneció diciendo «gracias» 🙌",
+  "bigword": "GRACIAS",
+  "hook": "¿Y a tus clientes cuándo les dijiste <em>gracias</em>?",
+  "punch": "Con <b>apiwapp</b> mandás un mensaje personalizado por WhatsApp a toda tu cartera en un clic.",
+  "product": "apiwapp",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-23/fotos/foto1.jpg",
+  "credit": "Matheus Frade",
+  "fs": 108,
+  "music": {"artist": "Florence + The Machine", "title": "Dog Days Are Over", "why": "Audio de festejo muy usado en Reels: «llegaron los días buenos», ideal para agradecer y celebrar con clientes (usá el estribillo)."}
+ },
+ {
+  "layout": "tweet",
+  "trend": "#LasVegasGP",
+  "kicker": "Lo que nos dejó el finde de F1 🏁",
+  "time": "09:30 · 23 nov. 2026",
+  "hook": "En boxes saben dónde está cada auto, vuelta por vuelta. ¿Vos sabés dónde está tu preventista? 👀",
+  "punch": "Con <b>distri</b> seguís recorridos, pedidos y cobranzas de tu equipo en tiempo real, desde el celu.",
+  "product": "distri",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-23/fotos/foto2.jpg",
+  "credit": "Chris Kursikowski",
+  "fs": 56,
+  "music": {"artist": "The Black Eyed Peas", "title": "Pump It", "why": "Tendencia de mini-vlogs que etiquetan «combustible, herramientas, equipo»: pura energía de ventas en la calle (tramo del riff inicial)."}
+ },
+ {
+  "layout": "encuesta",
+  "trend": "#BuenLunes",
+  "kicker": "Lunes, 8:59, mate recién cebado 🧉",
+  "hook": "Abrís WhatsApp y tenés 47 mensajes. ¿Qué hacés?",
+  "sticker_slot": true,
+  "sticker_hint": "Votá acá 👇",
+  "slot_h": 380,
+  "punch": "Si la respuesta es «mil», una <b>IA</b> puede contestar las consultas repetidas por vos.",
+  "cta": "Votá en la encuesta 👆",
+  "photo": "historias-tendencias/2026-11-23/fotos/foto3.jpg",
+  "credit": "Lautaro Andreani",
+  "fs": 84,
+  "sticker": {"type": "encuesta", "question": "Lunes, 47 mensajes sin leer. ¿Qué hacés?", "options": ["Otro mate y arranco", "Los dejo para el martes"]},
+  "music": {"artist": "Diana Ross", "title": "Upside Down", "why": "Viral en transiciones antes/después: el lunes que te da vuelta la semana… y cómo lo ordenás (estribillo)."}
+ },
+ {
+  "layout": "split",
+  "art": "rings",
+  "trend": "Tesla",
+  "kicker": "Los autos ya se manejan solos 🚗",
+  "hook": "¿Tu <em>administración</em> todavía va a mano?",
+  "punch": "Automatizamos con IA facturas, reportes y planillas para que tu negocio ande en <b>piloto automático</b>.",
+  "product": "Automatización con IA",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-23/fotos/foto4.jpg",
+  "credit": "Eric Weber",
+  "fs": 96,
+  "music": {"artist": "Altego Music", "title": "Drop It Like It's Hot x Stayin' Alive (Altego Mix)", "why": "Mashup en tendencia para mensajes motivadores; usá el tramo de «Stayin' Alive»: el negocio que sigue andando solo."}
+ },
+ {
+  "layout": "meme",
+  "trend": "Barranquilla",
+  "kicker": "Comparación necesaria ✈️",
+  "hook": "Hay viajes y <em>viajes</em>…",
+  "rows": [
+   {"label": "Lo que viaja un hincha para ver una final", "value": "~5.000 km"},
+   {"label": "Lo que viaja tu cliente si no te encuentra online", "value": "0 km", "hot": true}
+  ],
+  "stamp": "Se va a la competencia 😬",
+  "punch": "Tu <b>tienda online o app</b> a medida, para que te encuentren y te compren a un clic.",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-23/fotos/foto5.jpg",
+  "credit": "Shaun Alam",
+  "fs": 92,
+  "music": {"artist": "Guns N' Roses", "title": "November Rain", "why": "Muy usado en Reels cinematográficos de viajes; noviembre, cierre de año y hora de llegar más lejos (el solo de guitarra)."}
+ }
+]
