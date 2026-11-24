@@ -1,0 +1,112 @@
+[
+ {
+  "layout": "dato",
+  "trend": "River",
+  "number": "3-1",
+  "label": "y a cuartos ⚽",
+  "hook": "Un buen <em>refuerzo</em> te da vuelta cualquier partido.",
+  "punch": "Con <b>jashr</b> encontramos el talento justo para tu equipo, sin perder semanas en entrevistas.",
+  "product": "jashr",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-24/fotos/foto1.jpg",
+  "credit": "Izuddin Helmi Adnan",
+  "fs": 80,
+  "music": {
+   "artist": "The Killers",
+   "title": "Mr. Brightside",
+   "why": "En pico en Reels para contenido deportivo y de alta energía: clima de remontada y equipo ganador (arranque del estribillo)."
+  }
+ },
+ {
+  "layout": "titular",
+  "trend": "Día del Vino Argentino",
+  "kicker": "24/11 · Día del Vino Argentino 🍷",
+  "bigword": "MALBEC",
+  "hook": "Hoy se brinda. ¿Tu <em>stock</em> llega a las fiestas?",
+  "punch": "Con <b>distri</b> tus preventistas cargan pedidos desde el celu y ves el stock real antes de que se agote.",
+  "product": "distri",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-24/fotos/foto2.jpg",
+  "credit": "Emre Katmer",
+  "fs": 104,
+  "music": {
+   "artist": "Harry Styles",
+   "title": "Coming Up Roses",
+   "why": "En alza para montajes de gratitud y «pequeños logros»: ideal para brindar por un buen año de ventas (estribillo)."
+  }
+ },
+ {
+  "layout": "tweet",
+  "trend": "Tormentas en Córdoba",
+  "kicker": "Martes con alerta en Córdoba ⛈️",
+  "time": "10:15 · 24 nov. 2026",
+  "hook": "Pronostican hasta 70 mm. ¿Mañana vas a saber cuánto llovió en cada lote? 🌧️",
+  "punch": "Con <b>agro</b> registrás lluvias, labores y gastos por lote desde el celular, todo en un solo lugar.",
+  "product": "agro",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-24/fotos/foto3.jpg",
+  "credit": "Dave Hoefler",
+  "fs": 56,
+  "music": {
+   "artist": "Gregory Alan Isakov",
+   "title": "Sweet Heat Lightning",
+   "why": "Entre los más usados en Reels: «relámpagos de calor» y paisaje de campo, justo para el productor que mira el cielo (intro con guitarra)."
+  }
+ },
+ {
+  "layout": "encuesta",
+  "trend": "Luna llena",
+  "kicker": "Hoy hay luna llena 🌕",
+  "hook": "Son las 23 h. ¿Dónde te encuentra la <em>luna</em>?",
+  "sticker_slot": true,
+  "sticker_hint": "Votá acá 👇",
+  "slot_h": 380,
+  "punch": "Si es cerrando la caja, armamos una <b>app a medida</b> o una <b>automatización con IA</b> que lo haga por vos.",
+  "cta": "Votá en la encuesta 👆",
+  "photo": "historias-tendencias/2026-11-24/fotos/foto4.jpg",
+  "credit": "Alina Novikova",
+  "fs": 88,
+  "sticker": {
+   "type": "encuesta",
+   "question": "Hoy 23 h: ¿dónde te encuentra la luna?",
+   "options": [
+    "Mirando el cielo 🌕",
+    "Cerrando la caja 🧾"
+   ]
+  },
+  "music": {
+   "artist": "FINNEAS",
+   "title": "My Moon My Man",
+   "why": "En alza en Reels: la luna en el título y un ritmo canchero para la noche de cierre de caja (estribillo)."
+  }
+ },
+ {
+  "layout": "meme",
+  "trend": "Black Friday",
+  "kicker": "Este viernes es Black Friday 🛍️",
+  "hook": "Mismo viernes, <em>dos</em> vidrieras:",
+  "rows": [
+   {
+    "label": "Horas que vende tu local",
+    "value": "11 h",
+    "hot": true
+   },
+   {
+    "label": "Horas que vende tu tienda online",
+    "value": "24 h"
+   }
+  ],
+  "stamp": "Vende mientras dormís 😴",
+  "punch": "Hacemos tu <b>e-commerce a medida</b>, conectado a tu stock y a tu WhatsApp.",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-24/fotos/foto5.jpg",
+  "credit": "Kristina Tochilko",
+  "fs": 88,
+  "music": {
+   "artist": "Altego Music",
+   "title": "Beauty and a Beat x Cola (Altego Mix)",
+   "why": "Mashup en pico que se usa justamente para teasers de Black Friday y lanzamientos (el drop)."
+  },
+  "photo_pos": "center 85%"
+ }
+]
