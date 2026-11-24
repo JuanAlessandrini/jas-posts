@@ -1,0 +1,6 @@
+[
+ {"tag":"Negocios","photo":"foto1.jpg","credit":"Tötös Ádám","kicker":"Mercados","title":"Vuelve la <em>calma</em> a los mercados tras la tensión cambiaria","desc":"El dólar oficial había tocado <b>$1.595</b>, su máximo del año, y el riesgo país bajó 30 puntos, a 1.035.","src":"Infobae","fs":58},
+ {"tag":"Negocios","photo":"foto2.jpg","credit":"EvoMao","kicker":"Industria","title":"Una fábrica de Chivilcoy cierra y se <em>muda a Brasil</em>","desc":"Arluchi, que hace suelas para calzado, dejará de producir el 30 de noviembre: <b>unos 20 trabajadores</b> perderían su puesto.","src":"La Trocha Digital","fs":58},
+ {"tag":"Tecnología","photo":"foto3.jpg","credit":"Vishnu Mohanan","kicker":"Chips e IA","title":"<em>Jensen Huang</em> vuelve a ser CEO de Nvidia","desc":"El directorio lo restituyó <b>por unanimidad</b> 11 días después de su salida y dijo que su regreso no implica riesgos de seguridad nacional.","src":"Nvidia / Reuters","fs":58},
+ {"tag":"Tecnología","photo":"foto4.jpg","credit":"Declan Sun","kicker":"IA para pymes","title":"OpenAI lanza <em>OpenWorks</em> para llevar la IA a pequeños negocios","desc":"Los comercios reciben asesoría gratis y <b>3 meses de ChatGPT Business</b>. Arranca en 20 ciudades de EE.UU.","src":"Decrypt","fs":56}
+]
