@@ -1,0 +1,6 @@
+[
+ {"tag":"Negocios","photo":"foto1.jpg","credit":"Peter Herrmann","kicker":"Actividad","title":"La economía entró en <em>recesión técnica</em>","desc":"El EMAE del INDEC confirmó dos trimestres de caída y el REM del BCRA ya espera un crecimiento de apenas <b>0,7%</b> en 2026.","src":"Infobae","fs":60},
+ {"tag":"Negocios","photo":"foto2.jpg","credit":"Maxim Hopman","kicker":"Dólar","title":"El dólar que compran las empresas <em>roza los $1.800</em>","desc":"El contado con liquidación subió <b>3,5%</b> y cerró en $1.782; la brecha con el mayorista llegó al 12%.","src":"El Cronista","fs":58},
+ {"tag":"Tecnología","photo":"foto3.jpg","credit":"Mohamed Nohassi","kicker":"Agentes de IA","title":"Reino Unido advierte a las empresas que crean <em>agentes de IA</em>","desc":"El regulador de datos (ICO) pide cuidar la privacidad <b>desde el diseño</b> y empezar por el modo más limitado del agente.","src":"Infobae","fs":56},
+ {"tag":"Tecnología","photo":"foto4.jpg","credit":"FlyD","kicker":"Ciberseguridad","title":"Hackers vulneraron un sistema de la <em>CIA</em>","desc":"Atacaron un sistema no clasificado de análisis de fuentes abiertas de la CIA y la ODNI, que coordina <b>17 agencias</b> de inteligencia.","src":"Infobae","fs":58}
+]
