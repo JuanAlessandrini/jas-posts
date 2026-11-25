@@ -1,0 +1,78 @@
+[
+ {
+  "layout": "dato",
+  "trend": "Octavos de final",
+  "number": "21 h",
+  "nfs": 290,
+  "label": "octavos,<br>mata-mata ⚽",
+  "hook": "Esta noche <em>no hay revancha</em>.",
+  "punch": "En la calle tampoco: con <b>distri</b> cada pedido se carga bien a la primera y llega completo.",
+  "product": "distri",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-25/fotos/foto1.jpg",
+  "credit": "Chris Bair",
+  "fs": 88,
+  "music": {"artist": "The Black Eyed Peas", "title": "Pump It", "why": "Sigue en la lista de sonidos del mes en Reels para mostrar «el combustible del día»: energía de noche de partido y equipo de ventas a full (el riff del arranque)."}
+ },
+ {
+  "layout": "split",
+  "trend": "Mundial Sub-17",
+  "kicker": "Hoy juega la Sub-17 ⚽",
+  "art": "bars",
+  "hook": "El <em>talento</em> se detecta temprano.",
+  "punch": "Con <b>jashr</b> encontramos los perfiles que tu empresa necesita antes que la competencia.",
+  "product": "jashr",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-25/fotos/foto2.jpg",
+  "credit": "Markus Spiske",
+  "fs": 96,
+  "music": {"artist": "JADE", "title": "Angel Of My Dreams", "why": "De los más usados en Reels este mes para montajes aspiracionales: ideal para «el candidato de tus sueños» (estribillo)."}
+ },
+ {
+  "layout": "tweet",
+  "trend": "Final en Montevideo",
+  "kicker": "Se viene la final del sábado 🏆",
+  "time": "11:20 · 25 nov. 2026",
+  "hook": "Todos armando el viaje a la final y tu WhatsApp con 47 consultas sin responder 😬",
+  "punch": "Con <b>apiwapp</b> respondés al toque, con mensajes automáticos y todo tu equipo en un mismo número.",
+  "product": "apiwapp",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-25/fotos/foto3.jpg",
+  "credit": "Casey Horner",
+  "fs": 54,
+  "music": {"artist": "Pink Floyd", "title": "Time", "why": "Top en Reels y TikTok esta semana (más de 500 mil videos): el reloj corre y cada mensaje sin responder es una venta que se va (la intro de relojes)."}
+ },
+ {
+  "layout": "encuesta",
+  "trend": "#UnMesParaNavidad",
+  "kicker": "25/11 · Falta un mes 🎄",
+  "hook": "¿Cómo llega tu negocio a <em>diciembre</em>?",
+  "sticker_slot": true,
+  "sticker_hint": "Votá acá 👇",
+  "slot_h": 380,
+  "punch": "Si es atado con alambre, armamos una <b>app a medida</b> o una <b>automatización con IA</b> y llegás tranqui.",
+  "cta": "Votá en la encuesta 👆",
+  "photo": "historias-tendencias/2026-11-25/fotos/foto4.jpg",
+  "credit": "Rodolfo Marques",
+  "fs": 90,
+  "sticker": {"type": "encuesta", "question": "¿Cómo llega tu negocio a diciembre?", "options": ["Todo bajo control 📋", "Atado con alambre 😅"]},
+  "music": {"artist": "Mariah Carey", "title": "All I Want for Christmas Is You", "why": "Volvió al tope con más de 16 millones de videos: arranca la cuenta regresiva navideña y el cierre de año del negocio (el «I don't want a lot for Christmas»)."}
+ },
+ {
+  "layout": "meme",
+  "trend": "#FelizMiércoles",
+  "kicker": "Mitad de semana ☕",
+  "hook": "Tu semana <em>hasta ahora</em>:",
+  "rows": [
+   {"label": "Horas pasando datos a planillas", "value": "9 h", "hot": true},
+   {"label": "Horas pensando cómo vender más", "value": "1 h"}
+  ],
+  "stamp": "Eso lo hace una IA 🤖",
+  "punch": "Automatizamos tus tareas repetitivas con <b>IA</b> para que uses el tiempo en lo que te hace crecer.",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-25/fotos/foto5.jpg",
+  "credit": "Kelly Sikkema",
+  "fs": 90,
+  "music": {"artist": "Tate McRae", "title": "Housewife", "why": "En los dos rankings de Reels del mes con el formato «I just wanna make a lot of money and…»: plata y tiempo libre gracias a la automatización (el fragmento del trend)."}
+ }
+]
