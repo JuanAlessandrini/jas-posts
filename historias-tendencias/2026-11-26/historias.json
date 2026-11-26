@@ -1,0 +1,101 @@
+[
+ {
+  "layout": "dato",
+  "trend": "Black Friday",
+  "number": "24h",
+  "nfs": 260,
+  "label": "para el<br>Black Friday 🛍️",
+  "hook": "Mañana tu tienda <em>no se puede caer</em>.",
+  "punch": "Hacemos <b>e-commerce a medida</b> que aguanta el pico de visitas y cobra sin trabas.",
+  "product": "e-commerce",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-26/fotos/foto1.jpg",
+  "credit": "Aninge Fetzer",
+  "fs": 86,
+  "music": {
+   "artist": "Diana Ross",
+   "title": "Upside Down",
+   "why": "En la lista de sonidos de noviembre en Reels para transiciones antes/después: precios dados vuelta y tu tienda lista para el pico (estribillo)."
+  }
+ },
+ {
+  "layout": "tweet",
+  "trend": "WhatsApp",
+  "kicker": "WhatsApp ya deja programar mensajes 📲",
+  "time": "10:15 · 26 nov. 2026",
+  "hook": "¿Mensajes programados a 14 días? Lindo. Nosotros los mandamos a miles de clientes a la vez 😎",
+  "punch": "Con <b>apiwapp</b> programás saludos, recordatorios y promos de fin de año desde un solo número.",
+  "product": "apiwapp",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-26/fotos/foto2.jpg",
+  "credit": "Kamran Abdullayev",
+  "fs": 56,
+  "music": {
+   "artist": "Kelly Clarkson",
+   "title": "Underneath the Tree",
+   "why": "Entre los sonidos navideños del mes en Reels: ideal para los saludos de fin de año que dejás programados a tus clientes (estribillo)."
+  }
+ },
+ {
+  "layout": "split",
+  "trend": "Final de la Copa",
+  "kicker": "Ya hay fecha para la final ⚽",
+  "art": "bars",
+  "hook": "Todos saben <em>cuándo</em> se juega.",
+  "punch": "¿Tus clientes saben cuándo llega su pedido? Con <b>distri</b> cada reparto tiene día, hora y recorrido.",
+  "product": "distri",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-26/fotos/foto3.jpg",
+  "credit": "Alex Simpson",
+  "fs": 100,
+  "music": {
+   "artist": "Audio de tendencia",
+   "title": "Luminary",
+   "why": "Instrumental épico que se usa en Reels para momentos de victoria con texto en pantalla: clima de final (buscalo como «Luminary» en la app)."
+  }
+ },
+ {
+  "layout": "encuesta",
+  "trend": "#BuenJueves",
+  "kicker": "Jueves, ya casi ☕",
+  "hook": "¿Cuánto te <em>pesan</em> las planillas esta semana?",
+  "sticker_slot": true,
+  "sticker_hint": "Deslizá acá 👇",
+  "slot_h": 380,
+  "punch": "Si la respuesta es 😩, <b>automatizamos esas tareas con IA</b> y recuperás tus horas.",
+  "cta": "Mové el slider 👆",
+  "photo": "historias-tendencias/2026-11-26/fotos/foto4.jpg",
+  "credit": "Wiktor Karkocha",
+  "fs": 88,
+  "sticker": {
+   "type": "slider",
+   "question": "¿Cuánto te pesan las planillas?",
+   "emoji": "😩"
+  },
+  "music": {
+   "artist": "The Black Eyed Peas",
+   "title": "Pump It",
+   "why": "Sigue en los sonidos del mes con el trend «el combustible del día»: la energía que pide un jueves cargado (el riff del arranque)."
+  }
+ },
+ {
+  "layout": "titular",
+  "trend": "#Thanksgiving",
+  "bigword": "COSECHA",
+  "kicker": "Hoy es Acción de Gracias 🌾",
+  "hook": "Nació como fiesta de la <em>cosecha</em>.",
+  "punch": "La tuya se agradece con números claros: con <b>agro</b> gestionás tu campo lote por lote, desde el celu.",
+  "product": "agro",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-26/fotos/foto5.jpg",
+  "credit": "sangam sharma",
+  "fs": 112,
+  "music": {
+   "artist": "Guns N' Roses",
+   "title": "November Rain",
+   "why": "En los sonidos de noviembre para Reels cinematográficos: noviembre, lluvia y cosecha, el clima que mira todo productor (intro de piano)."
+  },
+  "photo_style": "split",
+  "photo_pos": "center 62%"
+ }
+]
