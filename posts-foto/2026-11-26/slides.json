@@ -1,0 +1,6 @@
+[
+ {"tag":"Negocios","photo":"foto1.jpg","credit":"Towfiqu barbhuiya","kicker":"Impuestos","title":"El mismo negocio paga más o menos <em>según la ciudad</em>","desc":"Según IDESA, entre Ingresos Brutos y tasas municipales una empresa destina <b>entre 3,25% y 6,40%</b> de sus ventas.","src":"Infobae","fs":58},
+ {"tag":"Negocios","photo":"foto2.jpg","credit":"CardMapr.nl","kicker":"Fintech","title":"Tether invierte <em>USD 14,5 millones</em> en la fintech argentina Lemon","desc":"Busca expandir el uso de dólares digitales. Lemon tiene <b>4,5 millones de usuarios</b> en la región.","src":"Infobae","fs":58},
+ {"tag":"Tecnología","photo":"foto3.jpg","credit":"Julian Hochgesang","kicker":"Ciberseguridad","title":"Hackers <em>llaman por teléfono</em> a empleados para robar sus claves","desc":"El grupo Inception lleva a las víctimas a falsos logins corporativos. Ya se detectaron <b>21 dominios</b> con su herramienta.","src":"Infobae","fs":58},
+ {"tag":"Tecnología","photo":"foto4.jpg","credit":"Dan Nelson","kicker":"Privacidad","title":"Signal impide que <em>Siri y Gemini</em> lean tus chats","desc":"La nueva protección también bloquea <b>capturas de pantalla</b> dentro de la app y oculta los mensajes en el selector de apps.","src":"Infobae","fs":60}
+]
