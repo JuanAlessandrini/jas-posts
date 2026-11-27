@@ -1,0 +1,111 @@
+[
+ {
+  "layout": "dato",
+  "trend": "#BlackFriday",
+  "number": "100%",
+  "nfs": 210,
+  "label": "bajo<br>control 📦",
+  "hook": "Hoy vuela todo. ¿Y tu stock?",
+  "punch": "Con <b>distri</b> controlás stock, pedidos y repartos en tiempo real, aunque explote el Black Friday.",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-27/fotos/foto1.jpg",
+  "credit": "Ruchindra Gunasekara",
+  "fs": 88,
+  "music": {
+   "artist": "Audio de tendencia",
+   "title": "Windows in Brazil (Sped Up)",
+   "why": "En los sonidos de noviembre en Reels con el trend de la «pantalla de carga» de 0% a 100%: el mismo 100% de stock controlado de la placa (desde el arranque)."
+  }
+ },
+ {
+  "layout": "encuesta",
+  "trend": "#FelizViernes",
+  "kicker": "Viernes, por fin 🙌",
+  "hook": "¿Contestás WhatsApp de laburo <em>el finde</em>?",
+  "sticker_slot": true,
+  "sticker_hint": "Votá acá 👇",
+  "slot_h": 380,
+  "punch": "Con <b>apiwapp</b> tus clientes reciben respuesta automática y vos disfrutás el finde.",
+  "cta": "Votá en la encuesta 👆",
+  "photo": "historias-tendencias/2026-11-27/fotos/foto2.jpg",
+  "credit": "Heather Mount",
+  "fs": 90,
+  "sticker": {
+   "type": "encuesta",
+   "question": "¿Contestás WhatsApp de laburo el finde?",
+   "options": [
+    "Sí, siempre 😩",
+    "Ni loco 😎"
+   ]
+  },
+  "music": {
+   "artist": "PattiJ North",
+   "title": "My Own Universe",
+   "why": "En los sonidos de noviembre para momentos de bajar un cambio: el finde tranqui mientras el bot atiende (estribillo)."
+  }
+ },
+ {
+  "layout": "titular",
+  "trend": "Copa Davis · 10 años",
+  "bigword": "EQUIPO",
+  "kicker": "Hace 10 años, la Davis fue nuestra 🎾",
+  "hook": "Los títulos se ganan <em>en equipo</em>.",
+  "punch": "Para armar el tuyo, <b>jashr</b> te ayuda a encontrar el talento justo para cada puesto.",
+  "product": "jashr",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-27/fotos/foto3.jpg",
+  "credit": "Aleksandr Galichkin",
+  "fs": 120,
+  "music": {
+   "artist": "Audio de tendencia",
+   "title": "Luminary",
+   "why": "Instrumental épico que se usa en Reels para momentos de victoria con texto en pantalla: clima de aniversario de un título (el crescendo)."
+  }
+ },
+ {
+  "layout": "tweet",
+  "trend": "Se viene diciembre",
+  "kicker": "Último viernes de noviembre 🗓️",
+  "time": "10:30 · 27 nov. 2026",
+  "hook": "Diciembre: todos quieren su turno «antes de las fiestas» 🎄",
+  "punch": "Con <b>medapp</b> tus pacientes sacan turno online 24/7 y les llega el recordatorio solo.",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-27/fotos/foto4.jpg",
+  "credit": "Rae Galatas",
+  "fs": 60,
+  "music": {
+   "artist": "Mariah Carey",
+   "title": "All I Want for Christmas Is You",
+   "why": "El clásico que vuelve cada noviembre a los sonidos de Reels: arranca la cuenta regresiva a las fiestas y la agenda se llena (el «It's tiiime»)."
+  }
+ },
+ {
+  "layout": "meme",
+  "trend": "Llega el verano ☀️",
+  "kicker": "Temporada de alquileres 🏖️",
+  "hook": "Tu inmobiliaria <em>en verano</em>:",
+  "rows": [
+   {
+    "label": "Consultas por alquiler temporario",
+    "value": "+80",
+    "hot": true
+   },
+   {
+    "label": "Respondidas a tiempo",
+    "value": "12"
+   }
+  ],
+  "stamp": "Que no se te derrita ninguna 🔥",
+  "punch": "Con <b>JAS Inmobiliaria</b> centralizás propiedades, consultas y contratos en un solo lugar.",
+  "product": "inmobiliaria",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-27/fotos/foto5.jpg",
+  "credit": "Alejandra Cifre González",
+  "fs": 92,
+  "music": {
+   "artist": "Diana Ross",
+   "title": "Upside Down",
+   "why": "Sigue en los sonidos del mes para transiciones antes/después: la temporada te da vuelta la agenda y con un sistema la ponés en orden (estribillo)."
+  }
+ }
+]
