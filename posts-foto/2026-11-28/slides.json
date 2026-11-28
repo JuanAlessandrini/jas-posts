@@ -1,0 +1,6 @@
+[
+ {"tag":"Negocios","photo":"foto1.jpg","credit":"Haydn","kicker":"Energía","title":"Argentina LNG firma el lunes una inversión de <em>u$s 51.000 millones</em>","desc":"YPF, ENI y XRG darán la decisión final del proyecto, que arrancará con <b>12 millones de toneladas</b> anuales de GNL.","src":"El Cronista","fs":58},
+ {"tag":"Negocios","photo":"foto2.jpg","credit":"Nicholas Cappello","kicker":"Mercados","title":"El riesgo país cayó <em>más de 100 puntos</em> en la semana","desc":"Bajó 104 puntos hasta <b>960 puntos básicos</b> y los bonos en dólares rebotaron 3% en promedio.","src":"Infobae","fs":60},
+ {"tag":"Tecnología","photo":"foto3.jpg","credit":"Tyler","kicker":"Ciberseguridad","title":"Diputados cerró parte de sus sistemas por <em>ciberataques con IA</em>","desc":"Los servicios abiertos a internet quedaron solo en la red interna y el <b>doble factor</b> pasó a ser obligatorio.","src":"iProUP","fs":58},
+ {"tag":"Tecnología","photo":"foto4.jpg","credit":"Christopher Gower","kicker":"IA y datos","title":"Hallaron <em>12.830 sitios</em> hechos con ChatGPT abiertos a cualquiera","desc":"Pluto Security encontró datos sensibles de <b>27 organizaciones</b>, como cotizaciones y paneles de clientes.","src":"Infobae","fs":58}
+]
