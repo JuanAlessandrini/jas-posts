@@ -1,0 +1,115 @@
+[
+ {
+  "layout": "dato",
+  "trend": "Show en el Kempes 🎸",
+  "number": "57 mil",
+  "nfs": 190,
+  "label": "entrando<br>a la vez 🤯",
+  "hook": "¿Tu app aguanta un Kempes lleno?",
+  "punch": "Desarrollamos <b>apps a medida</b> que no se caen cuando todos tus clientes entran al mismo tiempo.",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-28/fotos/foto1.jpg",
+  "credit": "Samuel Regan-Asante",
+  "fs": 84,
+  "music": {
+   "artist": "The Killers",
+   "title": "Mr. Brightside",
+   "why": "Himno de estadio que se usa en Reels de alta energía: clima de recital lleno (estribillo «Coming out of my cage»)."
+  }
+ },
+ {
+  "layout": "encuesta",
+  "trend": "#EsteFinde",
+  "kicker": "Sábado de sol ☀️",
+  "hook": "¿Qué plan tenés <em>este finde</em>?",
+  "sticker_slot": true,
+  "sticker_hint": "Votá acá 👇",
+  "slot_h": 380,
+  "punch": "Si votaste «laburo»: con un <b>e-commerce</b> hecho por JAS tu negocio vende solo mientras vos descansás.",
+  "cta": "Votá en la encuesta 👆",
+  "photo": "historias-tendencias/2026-11-28/fotos/foto2.jpg",
+  "credit": "Iulia Buta",
+  "fs": 92,
+  "sticker": {
+   "type": "encuesta",
+   "question": "¿Qué plan tenés este finde?",
+   "options": [
+    "Asado 🔥",
+    "Pileta ☀️",
+    "Laburo 💻"
+   ]
+  },
+  "music": {
+   "artist": "Harry Styles",
+   "title": "Coming Up Roses",
+   "why": "Lo usan para montajes de «mi vida simple y linda»: el finde ideal mientras la tienda online factura (estribillo)."
+  }
+ },
+ {
+  "layout": "titular",
+  "trend": "#BuenSábado",
+  "bigword": "SÁBADO",
+  "kicker": "Sábado en el campo 🚜",
+  "hook": "El campo <em>no sabe</em> que hoy es sábado.",
+  "punch": "Por eso <b>agro</b> te deja ver lotes, labores y costos desde el celular, estés donde estés.",
+  "product": "agro",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-28/fotos/foto3.jpg",
+  "credit": "Alex Simpson",
+  "fs": 112,
+  "music": {
+   "artist": "Pink Floyd",
+   "title": "Time",
+   "why": "Tendencia de «antes y después»: el tiempo que el campo no te regala y que agro te devuelve (intro de relojes)."
+  }
+ },
+ {
+  "layout": "tweet",
+  "trend": "Black Friday",
+  "kicker": "El día después 📦",
+  "time": "10:15 · 28 nov. 2026",
+  "hook": "Sábado post Black Friday: 200 WhatsApps que dicen «¿y mi pedido?» 😵",
+  "punch": "Con <b>apiwapp</b> el cliente consulta el estado de su pedido por WhatsApp y la respuesta sale sola.",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-28/fotos/foto4.jpg",
+  "credit": "Kadarius Seegars",
+  "fs": 60,
+  "music": {
+   "artist": "altego_music",
+   "title": "BEAUTY AND A BEAT X COLA (ALTÉGO MIX)",
+   "why": "El audio de los teasers de Black Friday en Reels: energía de pico de ventas (el drop)."
+  }
+ },
+ {
+  "layout": "meme",
+  "trend": "#MasterChefJunior",
+  "hook": "La receta de una <em>distribuidora</em> ordenada:",
+  "rows": [
+   {
+    "label": "Pedidos anotados en papelitos",
+    "value": "❌"
+   },
+   {
+    "label": "Stock calculado «a ojo»",
+    "value": "❌"
+   },
+   {
+    "label": "Todo en distri, en tiempo real",
+    "value": "✅",
+    "hot": true
+   }
+  ],
+  "stamp": "Plato aprobado ✅",
+  "punch": "Con <b>distri</b> tenés pedidos, stock, preventa y repartos en un solo lugar.",
+  "product": "distri",
+  "cta": "Escribinos 👉 353-4764036",
+  "photo": "historias-tendencias/2026-11-28/fotos/foto5.jpg",
+  "credit": "Bank Phrom",
+  "fs": 74,
+  "music": {
+   "artist": "Royal Symphony Orchestra",
+   "title": "The Blue Danube Waltz",
+   "why": "Tendencia de tareas cotidianas filmadas como un ballet: una distribuidora que funciona con la precisión de un vals."
+  }
+ }
+]
